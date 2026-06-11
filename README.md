@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:6EE7B7&height=80&section=footer" width="100%"/>
+
 <!-- HERO -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=750&lines=Gaurav+Yadav+%E2%80%94+Software+Engineer;Full-Stack+%2B+AI+Systems+Builder;MERN+%7C+FastAPI+%7C+LLMs+%7C+Agentic+AI;Pre-Final+Year+%7C+Open+to+SWE+%2F+AI+Roles" alt="Typing SVG" />
