@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:6EE7B7&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Gaurav%20Yadav&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=58&section=header" width="100%"/>
 
 <!-- HERO -->
 <a href="https://git.io/typing-svg">
