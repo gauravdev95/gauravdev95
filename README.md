@@ -13,7 +13,7 @@
   <a href="https://github.com/gaurav-opensource"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=gaurav-opensource&style=flat-square&color=6366F1&label=Profile+Views" alt="Profile Views"/>
+
 
 </div>
 
@@ -21,21 +21,49 @@
 
 ## About Me
 
-```python
-class GauravYadav:
-    role       = "Full-Stack + AI Engineer"
-    university = "Hindustan College of Science & Technology (B.Tech CSE, 2023–2027)"
-    location   = "Uttar Pradesh, India"
-    internship = "AI/ML Intern @ Infosys Springboard (2026–Present)"
+## About Me
 
-    stack      = ["MERN", "FastAPI", "Python", "LLMs", "RAG", "Docker"]
-    strengths  = ["Production-grade AI systems", "Agentic pipelines", "Backend architecture"]
+<table>
+<tr>
+<td>
 
-    dsa        = {"problems_solved": "800+", "codechef_rating": "4-star (top 10% globally)"}
-    hackathons = ["Top 3 – Smart India Hackathon 2025", "Top 20 – WikiThon 2026 (AI Valley)"]
+**Name**  
+Gaurav Yadav
 
-    seeking    = "SWE Internship | Full-Stack | Backend | AI Engineering Roles"
-```
+**Role**  
+Full-Stack & AI Engineer
+
+**Education**  
+B.Tech Computer Science (2023–2027)  
+Hindustan College of Science & Technology
+
+**Location**  
+Uttar Pradesh, India
+
+**Current Focus**  
+Building AI-powered products, scalable backend systems, and intelligent automation workflows.
+
+</td>
+
+<td>
+
+**Highlights**
+
+🏆 4★ CodeChef Programmer
+
+📈 800+ DSA Problems Solved
+
+🚀 MERN • FastAPI • Python
+
+🤖 LLMs • RAG • AI Agents
+
+🐳 Docker • Git • Linux
+
+🎯 Seeking SWE / Backend / AI Roles
+
+</td>
+</tr>
+</table>
 
 I build production-grade software and push it further with AI. Over the last two years I've gone from learning fundamentals to shipping deployed systems—in healthcare, HR automation, infrastructure recovery, and developer tooling. My work lives at the intersection of clean backend architecture and intelligent automation: systems that don't just run, but reason.
 
