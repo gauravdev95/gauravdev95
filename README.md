@@ -50,13 +50,15 @@
 
 <img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=gauravdev95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=4F46E5&text_color=c9d1d9&border_radius=12" />
 
-I am a **Computer Science & Engineering undergraduate** at Hindustan College of Science and Technology *(2023–2027)*, currently serving as an **AI/ML Intern at Infosys Springboard**. My engineering philosophy centers on building systems that are not only functional but **scalable, observable, and production-hardened**.
+I'm a **Computer Science & Engineering undergraduate** at Hindustan College of Science and Technology *(2023–2027)*, currently an **AI & Machine Learning Intern at Infosys Springboard**. I build **production-grade, full-stack systems** — and I'm extending that into AI, working on RAG pipelines, multi-agent workflows, and LLM-powered features for projects like **CORTEX** and **DevRadar**.
 
-I specialize at the intersection of **Agentic AI**, **Full Stack Engineering**, and **Backend Architecture**. I architect RAG pipelines, multi-agent orchestration systems, and distributed REST/GraphQL APIs that handle real-world workloads. Every system I build is designed with **observability, fault tolerance, and performance** as first-class concerns.
+My core stack is **React, Node.js, Express, MongoDB, Python, and FastAPI**, and I care about clean architecture, scalability, and code that's actually deployed and running — not just sitting in a repo.
 
-With **800+ DSA problems** solved across competitive platforms and a **CodeChef 4★** rating, I bring algorithmic depth to every design decision — from choosing the right data structure to reasoning about time-space tradeoffs at scale.
+With **800+ DSA problems solved** across competitive platforms and a **CodeChef 4★** rating, I bring strong algorithmic foundations to every design decision.
 
-I am passionate about **open-source contribution**, having participated in **GSSoC** and **ECWoC**, and I actively contribute to projects that push the boundaries of developer tooling and AI infrastructure.
+I'm also active in **open source** through **GSSoC** and **ECWoC**, contributing bug fixes, documentation, and small features to real-world codebases.
+
+**Open to:** Full-Time SWE · Full-Stack Engineering · AI/ML Roles · Open Source
 
 <br/>
 
@@ -227,7 +229,7 @@ TalentForge was built during an intensive national-level hackathon sprint and re
 
 </div>
 
-**AI/ML Intern** — *Infosys Springboard* &nbsp; `2024 – Present`
+**AI/ML Intern** — *Infosys Springboard* &nbsp; `April 2026 – Present (3 months)`
 
 Engaged in applied AI research and development within Infosys Springboard's structured learning and project delivery program. Working on building intelligent automation solutions using Large Language Models, RAG pipelines, and agentic workflows.
 
@@ -244,7 +246,7 @@ Engaged in applied AI research and development within Infosys Springboard's stru
 
 <br/>
 
-**Full Stack Developer Intern** — *CodSoft* &nbsp; `2024`
+**Full Stack Developer Intern** — *CodSoft* &nbsp; `Dec 2025 – March 2026`
 
 Developed and shipped production-ready full stack web applications as part of an internship program, gaining hands-on experience in the complete MERN development lifecycle from requirement gathering to deployment.
 
@@ -261,7 +263,7 @@ Developed and shipped production-ready full stack web applications as part of an
 
 <br/>
 
-**Full Stack Trainee** — *IBM SkillsBuild* &nbsp; `2024`
+**Full Stack Trainee** — *IBM SkillsBuild* &nbsp; `June 2025 – Aug 2025`
 
 Completed IBM SkillsBuild's structured full stack development training program, building enterprise-grade applications with IBM-recommended architecture patterns and cloud-native tooling.
 
