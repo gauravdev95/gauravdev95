@@ -35,8 +35,6 @@
 </div>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=gauravdev95&color=7C3AED&style=flat-square&label=Profile+Views)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/gauravdev95?style=flat-square&color=4F46E5&label=Followers&logo=github)
 &nbsp;
