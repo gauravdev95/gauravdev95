@@ -363,7 +363,7 @@ Completed IBM SkillsBuild's structured full stack development training program, 
 **☁ AWS**
 
 [![AWS](https://img.shields.io/badge/AWS%20Academy%20Graduate-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/awsacademy/)
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+
 
 </td></tr>
 <tr><td align="center">
@@ -371,7 +371,7 @@ Completed IBM SkillsBuild's structured full stack development training program, 
 **◆ IBM & Oracle**
 
 [![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-Full%20Stack%20Development-1261FE?style=for-the-badge&logo=ibm&logoColor=white)](https://skillsbuild.org/)
-[![Oracle](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
+
 
 </td></tr>
 <tr><td align="center">
@@ -379,15 +379,14 @@ Completed IBM SkillsBuild's structured full stack development training program, 
 **🐍 NPTEL**
 
 [![NPTEL](https://img.shields.io/badge/NPTEL-Programming%20in%20Python-0072C6?style=for-the-badge&logo=python&logoColor=white)](https://nptel.ac.in/)
-[![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-0072C6?style=for-the-badge&logo=coursera&logoColor=white)](https://nptel.ac.in/)
+
 
 </td></tr>
 <tr><td align="center">
 
 **🔐 Cisco**
 
-[![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
-[![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
+
 
 </td></tr>
 <tr><td align="center">
