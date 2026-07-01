@@ -37,18 +37,17 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/gauravdev95?style=for-the-badge&color=4F46E5&label=Followers&logo=github)
 ![Stars](https://img.shields.io/github/stars/gauravdev95?style=for-the-badge&color=6D28D9&label=Stars&logo=github)
 
 </div>
 
 <div align="center">
 
-<sub>
 
+<div align="center">
 **Quick Navigation** — [About](#-about) · [Tech Stack](#-tech-stack) · [AI/ML Expertise](#-aiml-expertise) · [Projects](#-featured-projects) · [Experience](#-experience) · [Achievements](#-achievements) · [Certifications](#-certifications) · [Coding Profiles](#-coding-profiles) · [Analytics](#-github-analytics) · [Current Focus](#-current-focus) · [Connect](#-connect)
-
-</sub>
+ 
+</div>
 
 </div>
 
