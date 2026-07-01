@@ -90,58 +90,17 @@ I'm also active in **open source** through **GSSoC** and **ECWoC**, contributing
 
 ## ◈ AI / ML Expertise
 
-<h2 align="center">🚀 AI Expertise</h2>
 
-<table>
-<tr>
-<td width="250"><b>🧠 Large Language Models</b></td>
-<td width="350"><progress value="100" max="100"></progress></td>
-<td>100%</td>
-</tr>
-
-<tr>
-<td><b>🔍 Retrieval-Augmented Generation</b></td>
-<td><progress value="100" max="100"></progress></td>
-<td>100%</td>
-</tr>
-
-<tr>
-<td><b>🤖 Agentic AI</b></td>
-<td><progress value="92" max="100"></progress></td>
-<td>92%</td>
-</tr>
-
-<tr>
-<td><b>🗄️ Vector Databases</b></td>
-<td><progress value="85" max="100"></progress></td>
-<td>85%</td>
-</tr>
-
-<tr>
-<td><b>⚙️ MLOps</b></td>
-<td><progress value="78" max="100"></progress></td>
-<td>78%</td>
-</tr>
-
-<tr>
-<td><b>👁️ Computer Vision</b></td>
-<td><progress value="70" max="100"></progress></td>
-<td>70%</td>
-</tr>
-
-<tr>
-<td><b>📖 NLP</b></td>
-<td><progress value="85" max="100"></progress></td>
-<td>85%</td>
-</tr>
-
-<tr>
-<td><b>☁️ GenAI Infrastructure</b></td>
-<td><progress value="100" max="100"></progress></td>
-<td>100%</td>
-</tr>
-
-</table>
+| Domain | Level |
+|--------|-------|
+| 🧠 LLMs | ![Expert](https://img.shields.io/badge/Expert-100%25-success?style=flat-square) |
+| 🔍 RAG | ![Expert](https://img.shields.io/badge/Expert-100%25-success?style=flat-square) |
+| 🤖 Agentic AI | ![Advanced](https://img.shields.io/badge/Advanced-90%25-blue?style=flat-square) |
+| 📦 Vector DB | ![Advanced](https://img.shields.io/badge/Advanced-85%25-blue?style=flat-square) |
+| ⚙️ MLOps | ![Intermediate](https://img.shields.io/badge/Intermediate-75%25-orange?style=flat-square) |
+| 👁️ Computer Vision | ![Intermediate](https://img.shields.io/badge/Intermediate-70%25-orange?style=flat-square) |
+| 📖 NLP | ![Advanced](https://img.shields.io/badge/Advanced-85%25-blue?style=flat-square) |
+| ☁️ GenAI Infrastructure | ![Expert](https://img.shields.io/badge/Expert-100%25-success?style=flat-square) |
 ---
 
 ## ◈ Featured Projects
