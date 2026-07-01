@@ -90,21 +90,58 @@ I'm also active in **open source** through **GSSoC** and **ECWoC**, contributing
 
 ## ◈ AI / ML Expertise
 
-<div align="center">
+<h2 align="center">🚀 AI Expertise</h2>
 
-| Domain | Proficiency | Details |
-|:--|:--|:--|
-| **Large Language Models** | ████████████ Advanced | GPT-4o, Claude 3.5, Llama 3, Gemini — fine-tuning, prompt engineering, structured outputs |
-| **Retrieval-Augmented Generation** | ████████████ Advanced | LangChain, LlamaIndex, FAISS, Chroma — multi-stage retrieval, hybrid search, re-ranking |
-| **Agentic AI & Orchestration** | ███████████░ Advanced | LangGraph, CrewAI, AutoGen — multi-agent pipelines, tool use, self-healing workflows |
-| **Vector Databases** | ██████████░░ Proficient | Pinecone, Weaviate, Qdrant — semantic search, embedding pipelines |
-| **MLOps & Serving** | █████████░░░ Proficient | FastAPI inference endpoints, model versioning, Hugging Face deployment |
-| **Computer Vision** | ████████░░░░ Intermediate | OpenCV, YOLO, image classification, object detection pipelines |
-| **NLP & Text Processing** | ██████████░░ Proficient | spaCy, NLTK, transformer-based embeddings, semantic similarity |
-| **Generative AI Infrastructure** | ████████████ Advanced | Streaming APIs, context window management, cost-optimized inference |
+<table>
+<tr>
+<td width="250"><b>🧠 Large Language Models</b></td>
+<td width="350"><progress value="100" max="100"></progress></td>
+<td>100%</td>
+</tr>
 
-</div>
+<tr>
+<td><b>🔍 Retrieval-Augmented Generation</b></td>
+<td><progress value="100" max="100"></progress></td>
+<td>100%</td>
+</tr>
 
+<tr>
+<td><b>🤖 Agentic AI</b></td>
+<td><progress value="92" max="100"></progress></td>
+<td>92%</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Vector Databases</b></td>
+<td><progress value="85" max="100"></progress></td>
+<td>85%</td>
+</tr>
+
+<tr>
+<td><b>⚙️ MLOps</b></td>
+<td><progress value="78" max="100"></progress></td>
+<td>78%</td>
+</tr>
+
+<tr>
+<td><b>👁️ Computer Vision</b></td>
+<td><progress value="70" max="100"></progress></td>
+<td>70%</td>
+</tr>
+
+<tr>
+<td><b>📖 NLP</b></td>
+<td><progress value="85" max="100"></progress></td>
+<td>85%</td>
+</tr>
+
+<tr>
+<td><b>☁️ GenAI Infrastructure</b></td>
+<td><progress value="100" max="100"></progress></td>
+<td>100%</td>
+</tr>
+
+</table>
 ---
 
 ## ◈ Featured Projects
