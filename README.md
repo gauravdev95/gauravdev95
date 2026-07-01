@@ -12,41 +12,57 @@
 
 <br/>
 
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/B.Tech%20CSE-Hindustan%20College%20%7C%202023--2027-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/AI%2FML%20Intern-Infosys%20Springboard-4F46E5?style=for-the-badge&logo=infosys&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📍%20Uttar%20Pradesh-India-6D28D9?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE-Hindustan%20College%20%7C%202023--2027-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
-&nbsp;
-![AI/ML Intern](https://img.shields.io/badge/AI%2FML%20Intern-Infosys%20Springboard-4F46E5?style=flat-square&logo=infosys&logoColor=white)
-&nbsp;
-![Location](https://img.shields.io/badge/📍%20Uttar%20Pradesh-India-6D28D9?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/◈%20Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://threed-portfolio-msx7.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravyadav95/)
+[![Email](https://img.shields.io/badge/◈%20Email-gauravyddev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravyddev@gmail.com)
+[![GitHub](https://img.shields.io/badge/◈%20GitHub-gauravdev95-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravdev95)
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://threed-portfolio-msx7.onrender.com/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravyadav95/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-gauravyddev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravyddev@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-gauravdev95-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravdev95)
+![Followers](https://img.shields.io/github/followers/gauravdev95?style=for-the-badge&color=4F46E5&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/gauravdev95?style=for-the-badge&color=6D28D9&label=Stars&logo=github)
 
 </div>
 
 <div align="center">
-&nbsp;
-![Followers](https://img.shields.io/github/followers/gauravdev95?style=flat-square&color=4F46E5&label=Followers&logo=github)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/gauravdev95?style=flat-square&color=6D28D9&label=Stars&logo=github)
+
+<sub>
+
+**Quick Navigation** — [About](#-about) · [Tech Stack](#-tech-stack) · [AI/ML Expertise](#-aiml-expertise) · [Projects](#-featured-projects) · [Experience](#-experience) · [Achievements](#-achievements) · [Certifications](#-certifications) · [Coding Profiles](#-coding-profiles) · [Analytics](#-github-analytics) · [Current Focus](#-current-focus) · [Connect](#-connect)
+
+</sub>
 
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
 ## ◈ About
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=gauravdev95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=4F46E5&text_color=c9d1d9&border_radius=12" />
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+<br/>
 
 I'm a **Computer Science & Engineering undergraduate** at Hindustan College of Science and Technology *(2023–2027)*, currently an **AI & Machine Learning Intern at Infosys Springboard**. I build **production-grade, full-stack systems** — and I'm extending that into AI, working on RAG pipelines, multi-agent workflows, and LLM-powered features for projects like **CORTEX** and **DevRadar**.
 
@@ -60,39 +76,66 @@ I'm also active in **open source** through **GSSoC** and **ECWoC**, contributing
 
 <br/>
 
-**Open To:**
-&nbsp; ![Full Time SWE](https://img.shields.io/badge/Full%20Time%20SWE-Open-7C3AED?style=flat-square)
-&nbsp; ![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-Open-4F46E5?style=flat-square)
-&nbsp; ![AI/ML Roles](https://img.shields.io/badge/AI%2FML%20Roles-Open-6D28D9?style=flat-square)
-&nbsp; ![Open Source](https://img.shields.io/badge/Open%20Source-Active-8B5CF6?style=flat-square)
+<img src="https://img.shields.io/badge/Full%20Time%20SWE-Open-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend%20Engineering-Open-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%2FML%20Roles-Open-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20Source-Active-8B5CF6?style=flat-square"/>
 
----
+<br/>
+<br/>
+
+</td>
+<td width="35%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gauravdev95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=4F46E5&text_color=c9d1d9&border_radius=12" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
 ## ◈ Tech Stack
 
-<div align="center">
+<table width="100%">
+<tr><td align="center">
 
-### Languages
+**🗲 Languages**
+
 [![Skills](https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,bash&theme=dark)](https://skillicons.dev)
 
-### Frontend
+</td></tr>
+<tr><td align="center">
+
+**◫ Frontend**
+
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs&theme=dark)](https://skillicons.dev)
 
-### Backend & Databases
+</td></tr>
+<tr><td align="center">
+
+**◧ Backend & Databases**
+
 [![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis,mysql&theme=dark)](https://skillicons.dev)
 
-### Cloud, DevOps & Tooling
+</td></tr>
+<tr><td align="center">
+
+**☁ Cloud, DevOps & Tooling**
+
 [![Skills](https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman,nginx&theme=dark)](https://skillicons.dev)
 
-</div>
+</td></tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
-## ◈ AI / ML Expertise
+## ◈ AI/ML Expertise
 
+<div align="center">
 
 | Domain | Level |
-|--------|-------|
+|:--|:--|
 | 🧠 LLMs | ![Expert](https://img.shields.io/badge/Expert-100%25-success?style=flat-square) |
 | 🔍 RAG | ![Expert](https://img.shields.io/badge/Expert-100%25-success?style=flat-square) |
 | 🤖 Agentic AI | ![Advanced](https://img.shields.io/badge/Advanced-90%25-blue?style=flat-square) |
@@ -101,12 +144,26 @@ I'm also active in **open source** through **GSSoC** and **ECWoC**, contributing
 | 👁️ Computer Vision | ![Intermediate](https://img.shields.io/badge/Intermediate-70%25-orange?style=flat-square) |
 | 📖 NLP | ![Advanced](https://img.shields.io/badge/Advanced-85%25-blue?style=flat-square) |
 | ☁️ GenAI Infrastructure | ![Expert](https://img.shields.io/badge/Expert-100%25-success?style=flat-square) |
----
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
 ## ◈ Featured Projects
 
-<details>
-<summary><b>◈ SmartCare — Intelligent Healthcare Platform</b></summary>
+<table width="100%">
+<tr>
+<td align="center">🩺 <b>SmartCare</b></td>
+<td align="center">🛰️ <b>DevRadar</b></td>
+<td align="center">🧬 <b>CORTEX</b></td>
+<td align="center">🧑‍💼 <b>TalentForge</b></td>
+</tr>
+</table>
+
+<br/>
+
+<details open>
+<summary><b>🩺 ◈ SmartCare — Intelligent Healthcare Platform</b></summary>
 
 <br/>
 
@@ -130,10 +187,8 @@ The platform is built on a microservice-inspired monolith architecture enabling 
 <br/>
 </details>
 
----
-
 <details>
-<summary><b>◈ DevRadar — AI-Powered Developer Discovery Engine</b></summary>
+<summary><b>🛰️ ◈ DevRadar — AI-Powered Developer Discovery Engine</b></summary>
 
 <br/>
 
@@ -157,10 +212,8 @@ The AI architecture is built around a two-stage pipeline: an **embedding layer**
 <br/>
 </details>
 
----
-
 <details>
-<summary><b>◈ CORTEX — Multi-Agent AI Orchestration Framework</b></summary>
+<summary><b>🧬 ◈ CORTEX — Multi-Agent AI Orchestration Framework</b></summary>
 
 <br/>
 
@@ -184,10 +237,8 @@ The recovery workflow is central to CORTEX's reliability guarantee. Each agent e
 <br/>
 </details>
 
----
-
 <details>
-<summary><b>◈ TalentForge — AI-Driven Recruitment Intelligence Platform</b></summary>
+<summary><b>🧑‍💼 ◈ TalentForge — AI-Driven Recruitment Intelligence Platform</b></summary>
 
 <br/>
 
@@ -211,19 +262,17 @@ TalentForge was built during an intensive national-level hackathon sprint and re
 <br/>
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
 ## ◈ Experience
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="6%" align="center">🏢</td>
+<td width="94%">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-**AI/ML Intern** — *Infosys Springboard* &nbsp; `April 2026 – Present (3 months)`
+### AI/ML Intern — *Infosys Springboard*
+`April 2026 – Present (3 months)`
 
 Engaged in applied AI research and development within Infosys Springboard's structured learning and project delivery program. Working on building intelligent automation solutions using Large Language Models, RAG pipelines, and agentic workflows.
 
@@ -232,15 +281,21 @@ Engaged in applied AI research and development within Infosys Springboard's stru
 - Developed FastAPI-based inference microservices exposing AI capabilities as production-ready REST endpoints
 - Applied prompt engineering patterns (chain-of-thought, few-shot, structured output) for consistent and reliable LLM responses
 
-&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-7C3AED?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-7C3AED?style=flat-square"/>
 
-<br/>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="6%" align="center">🏢</td>
+<td width="94%">
 
-**Full Stack Developer Intern** — *CodSoft* &nbsp; `Dec 2025 – March 2026`
+### Full Stack Developer Intern — *CodSoft*
+`Dec 2025 – March 2026`
 
 Developed and shipped production-ready full stack web applications as part of an internship program, gaining hands-on experience in the complete MERN development lifecycle from requirement gathering to deployment.
 
@@ -249,15 +304,21 @@ Developed and shipped production-ready full stack web applications as part of an
 - Integrated third-party APIs and implemented JWT-based authentication and role-based authorization systems
 - Deployed applications to cloud infrastructure with CI/CD pipelines and environment-based configuration management
 
-&nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-<br/>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="6%" align="center">🏢</td>
+<td width="94%">
 
-**Full Stack Trainee** — *IBM SkillsBuild* &nbsp; `June 2025 – Aug 2025`
+### Full Stack Trainee — *IBM SkillsBuild*
+`June 2025 – Aug 2025`
 
 Completed IBM SkillsBuild's structured full stack development training program, building enterprise-grade applications with IBM-recommended architecture patterns and cloud-native tooling.
 
@@ -265,11 +326,15 @@ Completed IBM SkillsBuild's structured full stack development training program, 
 - Built applications following IBM's enterprise software development practices including modular architecture and documentation standards
 - Worked with IBM Cloud services and toolchain integrations for collaborative development and deployment
 
-&nbsp; ![IBM](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
----
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
 ## ◈ Achievements
 
@@ -288,78 +353,84 @@ Completed IBM SkillsBuild's structured full stack development training program, 
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
 ## ◈ Certifications
 
-<div align="center">
+<table width="100%">
+<tr><td align="center">
 
-### AWS
+**☁ AWS**
+
 [![AWS](https://img.shields.io/badge/AWS%20Academy%20Graduate-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/awsacademy/)
-&nbsp;
 [![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
-### IBM & Oracle
+</td></tr>
+<tr><td align="center">
+
+**◆ IBM & Oracle**
+
 [![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-Full%20Stack%20Development-1261FE?style=for-the-badge&logo=ibm&logoColor=white)](https://skillsbuild.org/)
-&nbsp;
 [![Oracle](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
 
-### NPTEL
+</td></tr>
+<tr><td align="center">
+
+**🐍 NPTEL**
+
 [![NPTEL](https://img.shields.io/badge/NPTEL-Programming%20in%20Python-0072C6?style=for-the-badge&logo=python&logoColor=white)](https://nptel.ac.in/)
-&nbsp;
 [![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-0072C6?style=for-the-badge&logo=coursera&logoColor=white)](https://nptel.ac.in/)
 
-### Cisco
+</td></tr>
+<tr><td align="center">
+
+**🔐 Cisco**
+
 [![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
-&nbsp;
 [![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
 
-### Infosys
+</td></tr>
+<tr><td align="center">
+
+**◈ Infosys**
+
 [![Infosys](https://img.shields.io/badge/Infosys%20Springboard-Generative%20AI-006B7D?style=for-the-badge&logo=infosys&logoColor=white)](https://springboard.infosysapps.com/)
-&nbsp;
 [![Infosys](https://img.shields.io/badge/Infosys%20Springboard-Machine%20Learning-006B7D?style=for-the-badge&logo=infosys&logoColor=white)](https://springboard.infosysapps.com/)
 
-</div>
+</td></tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
 ## ◈ Coding Profiles
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/gauravdev95/)
-&nbsp;
 [![CodeChef](https://img.shields.io/badge/CodeChef%204★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gauravdev95)
-&nbsp;
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/gauravyddev/)
-&nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gauravyddev)
-&nbsp;
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gauravdev95)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
 ## ◈ GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravdev95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=4F46E5&text_color=c9d1d9&border_radius=12&count_private=true&include_all_commits=true" />
-&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdev95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&border_radius=12&langs_count=8" />
 
-</div>
-
-<div align="center">
+<br/>
+<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=gauravdev95&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=4F46E5&fire=8B5CF6&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=6b7280&border_radius=12" />
 
 </div>
 
----
-
-## ◈ GitHub Trophies
+### ◈ GitHub Trophies
 
 <div align="center">
 
@@ -367,9 +438,7 @@ Completed IBM SkillsBuild's structured full stack development training program, 
 
 </div>
 
----
-
-## ◈ Contribution Activity
+### ◈ Contribution Activity
 
 <div align="center">
 
@@ -377,9 +446,7 @@ Completed IBM SkillsBuild's structured full stack development training program, 
 
 </div>
 
----
-
-## ◈ Contribution Snake
+### ◈ Contribution Snake
 
 <div align="center">
 
@@ -391,7 +458,7 @@ Completed IBM SkillsBuild's structured full stack development training program, 
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
 ## ◈ Current Focus
 
@@ -421,23 +488,20 @@ open_to:
   - Technical content creation and engineering blog contributions
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
 ## ◈ Connect
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-gauravyddev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravyddev@gmail.com)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravyadav95-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravyadav95/)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-gauravdev95-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravdev95)
-&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://threed-portfolio-msx7.onrender.com/)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
