@@ -76,10 +76,10 @@ I'm also active in **open source** through **GSSoC** and **ECWoC**, contributing
 [![Skills](https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,bash&theme=dark)](https://skillicons.dev)
 
 ### Frontend
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite,threejs&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs&theme=dark)](https://skillicons.dev)
 
 ### Backend & Databases
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,postgres,redis,mysql&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis,mysql&theme=dark)](https://skillicons.dev)
 
 ### Cloud, DevOps & Tooling
 [![Skills](https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman,nginx&theme=dark)](https://skillicons.dev)
