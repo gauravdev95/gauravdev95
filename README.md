@@ -108,7 +108,7 @@ Active in open source via **GSSoC** and **ECWoC** — bug fixes, docs, and featu
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/about-me.png" width="280" style="border-radius:50%" alt="Gaurav Yadav"/>
+<img src="./photo.png" width="280" style="border-radius:50%" alt="Gaurav Yadav"/>
 
 <br/><br/>
 
