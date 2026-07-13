@@ -96,7 +96,7 @@ I'm also active in **open source** through **GSSoC** and **ECWoC**, contributing
 
 ## ◈ Tech Stack
 
-<table width="100%">
+<table width="100%" align="center">
 <tr><td align="center">
 
 **🗲 Languages**
@@ -367,9 +367,6 @@ Completed IBM SkillsBuild's structured full stack development training program, 
 </td></tr>
 <tr><td align="center">
 
-**◆ IBM & Oracle**
-
-[![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-Full%20Stack%20Development-1261FE?style=for-the-badge&logo=ibm&logoColor=white)](https://skillsbuild.org/)
 
 
 </td></tr>
@@ -428,10 +425,7 @@ Completed IBM SkillsBuild's structured full stack development training program, 
 
 </div>
 
-### ◈ GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravdev95&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" />
-</p>
+
 ### ◈ Contribution Activity
 
 <div align="center">
