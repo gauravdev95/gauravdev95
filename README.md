@@ -429,9 +429,11 @@ Completed IBM SkillsBuild's structured full stack development training program, 
 </div>
 
 ### ◈ GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravdev95&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravdev95&bg_color=0d1117&color=7C3AED&line=4F46E5&point=8B5CF6&area=true&area_color=3B0764&hide_border=true&border_radius=12&custom_title=Gaurav%27s%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 ### ◈ Contribution Activity
 
 <div align="center">
