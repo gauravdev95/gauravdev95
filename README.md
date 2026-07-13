@@ -75,36 +75,56 @@
 
 <table width="100%">
 <tr>
+
 <td width="65%" valign="top">
 
 <br/>
 
-I'm a **Computer Science & Engineering undergraduate** at Hindustan College of Science and Technology *(2023–2027)*, currently an **AI & Machine Learning Intern at Infosys Springboard**. I build **production-grade, full-stack systems** — and I'm extending that into AI, working on RAG pipelines, multi-agent workflows, and LLM-powered features for projects like **CORTEX** and **DevRadar**.
+I'm a <b>Computer Science & Engineering undergraduate</b> at Hindustan College of Science and Technology <i>(2023–2027)</i>, currently an <b>AI & Machine Learning Intern at Infosys Springboard</b>. I build <b>production-grade, full-stack systems</b> — and I'm extending that into AI, working on RAG pipelines, multi-agent workflows, and LLM-powered features for projects like <b>CORTEX</b> and <b>DevRadar</b>.
 
-My core stack is **React, Node.js, Express, MongoDB, Python, and FastAPI**, and I care about clean architecture, scalability, and code that's actually deployed and running — not just sitting in a repo.
+<br/><br/>
 
-With **800+ DSA problems solved** across competitive platforms and a **CodeChef 4★** rating, I bring strong algorithmic foundations to every design decision.
+My core stack is <b>React, Node.js, Express, MongoDB, Python, and FastAPI</b>, and I care about clean architecture, scalability, and code that's actually deployed and running — not just sitting in a repo.
 
-I'm also active in **open source** through **GSSoC** and **ECWoC**, contributing bug fixes, documentation, and small features to real-world codebases.
+<br/><br/>
 
-**Open to:** Full-Time SWE · Full-Stack Engineering · AI/ML Roles · Open Source
+With <b>800+ DSA problems solved</b> across competitive platforms and a <b>CodeChef 4★ rating</b>, I bring strong algorithmic foundations to every design decision.
 
-<br/>
+<br/><br/>
+
+I'm also active in open source through <b>GSSoC</b> and <b>ECWoC</b>, contributing bug fixes, documentation, and small features to real-world codebases.
+
+<br/><br/>
+
+<b>Open to:</b> Full-Time SWE · Full-Stack Engineering · AI/ML Roles · Open Source
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Full%20Time%20SWE-Open-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/Backend%20Engineering-Open-4F46E5?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI%2FML%20Roles-Open-6D28D9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Open%20Source-Active-8B5CF6?style=flat-square"/>
 
-<br/>
-<br/>
+<br/><br/>
 
 </td>
-<td width="35%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gauravdev95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=4F46E5&text_color=c9d1d9&border_radius=12" width="100%"/>
+<td width="35%" align="center" valign="middle">
+
+<img src="./photo.png" width="300" alt="Gaurav Yadav - Software and AI Engineer"/>
+
+<br/>
+
+<b>Software Engineer</b>
+
+<sub>AI Systems · Backend · Full Stack</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BUILDING-INTELLIGENT%20SYSTEMS-7C3AED?style=flat-square"/>
 
 </td>
+
 </tr>
 </table>
 
