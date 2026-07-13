@@ -45,8 +45,24 @@
 
 
 <div align="center">
-**Quick Navigation** — [About](#-about) · [Tech Stack](#-tech-stack) · [AI/ML Expertise](#-aiml-expertise) · [Projects](#-featured-projects) · [Experience](#-experience) · [Achievements](#-achievements) · [Certifications](#-certifications) · [Coding Profiles](#-coding-profiles) · [Analytics](#-github-analytics) · [Current Focus](#-current-focus) · [Connect](#-connect)
- 
+
+### ◈ Quick Navigation
+
+<a href="#-about"><img src="https://img.shields.io/badge/About-7C3AED?style=for-the-badge"></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-4F46E5?style=for-the-badge"></a>
+<a href="#-aiml-expertise"><img src="https://img.shields.io/badge/AI%2FML-6D28D9?style=for-the-badge"></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge"></a>
+<a href="#-experience"><img src="https://img.shields.io/badge/Experience-4F46E5?style=for-the-badge"></a>
+<a href="#-achievements"><img src="https://img.shields.io/badge/Achievements-6D28D9?style=for-the-badge"></a>
+
+<br/>
+
+<a href="#-certifications"><img src="https://img.shields.io/badge/Certifications-7C3AED?style=for-the-badge"></a>
+<a href="#-coding-profiles"><img src="https://img.shields.io/badge/Coding%20Profiles-4F46E5?style=for-the-badge"></a>
+<a href="#-github-analytics"><img src="https://img.shields.io/badge/GitHub%20Analytics-6D28D9?style=for-the-badge"></a>
+<a href="#-current-focus"><img src="https://img.shields.io/badge/Current%20Focus-7C3AED?style=for-the-badge"></a>
+<a href="#-connect"><img src="https://img.shields.io/badge/Connect-4F46E5?style=for-the-badge"></a>
+
 </div>
 
 </div>
