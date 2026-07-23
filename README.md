@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <a href="https://threed-portfolio-msx7.onrender.com/">
 <img src="assets/hero.svg" width="100%" alt="Gaurav Yadav — Software Engineer · AI Engineer · Full Stack Developer"/>
@@ -156,3 +156,4 @@
 <img src="assets/footer.svg" width="100%" alt="Engineering is not just about writing code — it is about solving problems that matter, at the scale that matters, with the precision that matters."/>
 
 </div>
+](https://github.com/gauravdev95/gauravdev95/tree/main)
