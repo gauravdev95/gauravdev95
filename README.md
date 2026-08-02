@@ -7,7 +7,6 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Building+Intelligent+Systems+at+Scale;MERN+%7C+FastAPI+%7C+Agentic+AI+%7C+RAG+Pipelines;From+Idea+to+Production+%E2%80%94+End+to+End;800%2B+DSA+Problems+%7C+CodeChef+4%E2%98%85+%7C+Open+Source)](https://git.io/typing-svg)
-
 </div>
 
 <br/>
@@ -46,7 +45,7 @@
 
 <div align="center">
 
-### ◈ Quick Navigation
+### ◈ Quick Navigation -
 
 <a href="#-about"><img src="https://img.shields.io/badge/About-7C3AED?style=for-the-badge"></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-4F46E5?style=for-the-badge"></a>
@@ -70,6 +69,7 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
+
 ## ◈ About
 
 <table width="100%">
