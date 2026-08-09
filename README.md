@@ -4,6 +4,8 @@
 
 </div>
 
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Building+Intelligent+Systems+at+Scale;MERN+%7C+FastAPI+%7C+Agentic+AI+%7C+RAG+Pipelines;From+Idea+to+Production+%E2%80%94+End+to+End;800%2B+DSA+Problems+%7C+CodeChef+4%E2%98%85+%7C+Open+Source)](https://git.io/typing-svg)
@@ -388,7 +390,7 @@ Completed IBM SkillsBuild's structured full stack development training program, 
 | **GSSoC Contributor** | Active contributor in GirlScript Summer of Code open-source program |
 | **ECWoC Contributor** | Participated and contributed in ELITMUS Code Winter of Code program |
 | **AI/ML Intern — Infosys** | Selected for Infosys Springboard AI/ML internship through competitive selection |
-| **Full Stack Developer — CodSoft** | Completed and delivered full stack development internship with production deployments |
+| **Full Stack Developer — CodSoft** | Completed and delivered full stack development internship with production deployments|
 
 </div>
 
