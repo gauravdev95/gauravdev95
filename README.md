@@ -1,134 +1,82 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Gaurav%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
-
-</div>
-
-
+<!-- ═══════════════ gauravdev95 — profile README (single file, no local assets) ═══════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Building+Intelligent+Systems+at+Scale;MERN+%7C+FastAPI+%7C+Agentic+AI+%7C+RAG+Pipelines;From+Idea+to+Production+%E2%80%94+End+to+End;800%2B+DSA+Problems+%7C+CodeChef+4%E2%98%85+%7C+Open+Source)](https://git.io/typing-svg)
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=GAURAV%20YADAV&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Full%20Stack&descAlignY=56&descSize=17" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=RAG+pipelines%2C+multi-agent+systems%2C+production+backends;MERN+%E2%80%A2+FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+Vector+Search;800%2B+DSA+solved+%E2%80%A2+CodeChef+4%E2%98%85+%E2%80%A2+Open+Source;From+idea+to+deploy+%E2%80%94+I+ship+the+whole+thing)](https://git.io/typing-svg)
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/B.Tech%20CSE-Hindustan%20College%20%7C%202023--2027-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/AI%2FML%20Intern-Infosys%20Springboard-4F46E5?style=for-the-badge&logo=infosys&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📍%20Uttar%20Pradesh-India-6D28D9?style=for-the-badge"/>
-</td>
-</tr>
-</table>
+<a href="https://threed-portfolio-msx7.onrender.com/"><img src="https://img.shields.io/badge/PORTFOLIO-0B0E14?style=flat-square&logo=vercel&logoColor=white&labelColor=7C3AED" height="30"/></a>
+<a href="https://www.linkedin.com/in/gauravyadav95/"><img src="https://img.shields.io/badge/LINKEDIN-0B0E14?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="30"/></a>
+<a href="mailto:gauravyddev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0E14?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" height="30"/></a>
+<a href="https://github.com/gauravdev95"><img src="https://img.shields.io/badge/GITHUB-0B0E14?style=flat-square&logo=github&logoColor=white&labelColor=181717" height="30"/></a>
+<a href="https://leetcode.com/gauravdev95/"><img src="https://img.shields.io/badge/LEETCODE-0B0E14?style=flat-square&logo=leetcode&logoColor=white&labelColor=F59E0B" height="30"/></a>
 
-<div align="center">
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/◈%20Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://threed-portfolio-msx7.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravyadav95/)
-[![Email](https://img.shields.io/badge/◈%20Email-gauravyddev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravyddev@gmail.com)
-[![GitHub](https://img.shields.io/badge/◈%20GitHub-gauravdev95-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravdev95)
+<img src="https://komarev.com/ghpvc/?username=gauravdev95&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" height="24"/>
+<img src="https://img.shields.io/github/followers/gauravdev95?style=flat-square&color=22D3EE&labelColor=0B0E14&label=FOLLOWERS" height="24"/>
+<img src="https://img.shields.io/github/stars/gauravdev95?style=flat-square&color=F472B6&labelColor=0B0E14&label=TOTAL+STARS" height="24"/>
+<img src="https://img.shields.io/badge/STATUS-Open_to_SWE_roles-0B0E14?style=flat-square&labelColor=34D399" height="24"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/gauravdev95?style=for-the-badge&color=6D28D9&label=Stars&logo=github)
-
-</div>
-
-<div align="center">
-
-
-<div align="center">
-
-### ◈ Quick Navigation -
-
-<a href="#-about"><img src="https://img.shields.io/badge/About-7C3AED?style=for-the-badge"></a>
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-4F46E5?style=for-the-badge"></a>
-<a href="#-aiml-expertise"><img src="https://img.shields.io/badge/AI%2FML-6D28D9?style=for-the-badge"></a>
-<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge"></a>
-<a href="#-experience"><img src="https://img.shields.io/badge/Experience-4F46E5?style=for-the-badge"></a>
-<a href="#-achievements"><img src="https://img.shields.io/badge/Achievements-6D28D9?style=for-the-badge"></a>
-
-<br/>
-
-<a href="#-certifications"><img src="https://img.shields.io/badge/Certifications-7C3AED?style=for-the-badge"></a>
-<a href="#-coding-profiles"><img src="https://img.shields.io/badge/Coding%20Profiles-4F46E5?style=for-the-badge"></a>
-<a href="#-github-analytics"><img src="https://img.shields.io/badge/GitHub%20Analytics-6D28D9?style=for-the-badge"></a>
-<a href="#-current-focus"><img src="https://img.shields.io/badge/Current%20Focus-7C3AED?style=for-the-badge"></a>
-<a href="#-connect"><img src="https://img.shields.io/badge/Connect-4F46E5?style=for-the-badge"></a>
-
-</div>
-
-</div>
-
-<br/>
+<a href="#-01--about"><img src="https://img.shields.io/badge/01_ABOUT-0B0E14?style=flat-square&labelColor=7C3AED" height="27"/></a>
+<a href="#-02--stack"><img src="https://img.shields.io/badge/02_STACK-0B0E14?style=flat-square&labelColor=8B5CF6" height="27"/></a>
+<a href="#-03--work"><img src="https://img.shields.io/badge/03_WORK-0B0E14?style=flat-square&labelColor=A78BFA" height="27"/></a>
+<a href="#-04--experience"><img src="https://img.shields.io/badge/04_EXPERIENCE-0B0E14?style=flat-square&labelColor=22D3EE" height="27"/></a>
+<a href="#-05--signals"><img src="https://img.shields.io/badge/05_SIGNALS-0B0E14?style=flat-square&labelColor=F472B6" height="27"/></a>
+<a href="#-06--connect"><img src="https://img.shields.io/badge/06_CONNECT-0B0E14?style=flat-square&labelColor=34D399" height="27"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
-## ◈ About
+</div>
 
-<table width="100%">
+## `01` &nbsp;About
+
+<table>
 <tr>
-<td width="62%" valign="top">
-<br/>
-
-**Building things that ship — not just repos that sit.**
-
-CSE undergrad at Hindustan College of Science and Technology *(2023–2027)*, currently AI/ML Intern at **Infosys Springboard**. I design and ship full-stack systems end-to-end, and I'm pushing deeper into AI — RAG pipelines, multi-agent orchestration, and LLM-powered features — through projects like **CORTEX** and **DevRadar**.
+<td width="66%" valign="top">
 
 <br/>
 
-**Stack:** React · Node.js · Express · MongoDB · Python · FastAPI
-Focused on clean architecture, systems that scale, and code that's actually in production.
+> **I build things that ship — not repos that sit.**
+
+CSE undergrad at **Hindustan College of Science and Technology** *(2023–2027)*, currently **AI/ML Intern at Infosys Springboard**.
+
+I design and ship full-stack systems end to end, and I'm going deeper into applied AI — retrieval pipelines, multi-agent orchestration, and LLM-powered product features — through projects like **CORTEX** and **DevRadar**.
+
+**How I work.** Clean architecture first, then speed. Every design call is backed by the same instinct I built solving **800+ DSA problems** to a **CodeChef 4★** rating: know the cost before you write the line.
+
+**Open source.** Active through **GSSoC** and **ECWoC** — bug fixes, docs, and shipped features on real codebases.
 
 <br/>
 
-**800+ DSA problems** solved · **CodeChef 4★** — algorithmic thinking backs every design call I make.
+<img src="https://img.shields.io/badge/OPEN_TO-Full--Time_SWE-0B0E14?style=flat-square&labelColor=34D399" height="26"/>
+<img src="https://img.shields.io/badge/OPEN_TO-Backend-0B0E14?style=flat-square&labelColor=34D399" height="26"/>
+<img src="https://img.shields.io/badge/OPEN_TO-AI%2FML-0B0E14?style=flat-square&labelColor=34D399" height="26"/>
+<img src="https://img.shields.io/badge/ACTIVE-Open_Source-0B0E14?style=flat-square&labelColor=34D399" height="26"/>
 
 <br/>
-
-Active in open source via **GSSoC** and **ECWoC** — bug fixes, docs, and features on real-world codebases.
-
-<br/>
-
-**🟢 Open to:** Full-Time SWE · Full-Stack Engineering · AI/ML Roles · Open Source
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Full%20Time%20SWE-Open-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Open-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%2FML-Open-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-Active-8B5CF6?style=for-the-badge"/>
 
 </td>
-<td width="38%" align="center" valign="middle">
-
-<img src="./photo.png" width="280" style="border-radius:50%" alt="Gaurav Yadav"/>
-
-<br/><br/>
-
-### Software Engineer
-**AI Systems · Backend · Full Stack**
+<td width="34%" valign="top" align="center">
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍-Building%20Intelligent%20Systems-7C3AED?style=flat-square"/>
+<img src="./photo.png" width="230" alt="Gaurav Yadav"/>
 
 <br/><br/>
 
 | | |
-|---|---|
-| 🎓 | Final Year, CSE |
-| 💼 | AI/ML Intern @ Infosys Springboard |
-| 🧠 | 800+ DSA · CodeChef 4★ |
-| 🚀 | Building **Groundtruth** |
+|:--|:--|
+| **Role** | Software Engineer |
+| **Focus** | AI Systems · Backend |
+| **Now** | AI/ML Intern @ Infosys |
+| **Building** | CORTEX |
+| **Based** | Uttar Pradesh, India |
 
 </td>
 </tr>
@@ -136,240 +84,228 @@ Active in open source via **GSSoC** and **ECWoC** — bug fixes, docs, and featu
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
-## ◈ Tech Stack
-
-<table width="100%" align="center">
-<tr><td align="center">
-
-**🗲 Languages**
-
-[![Skills](https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,bash&theme=dark)](https://skillicons.dev)
-
-</td></tr>
-<tr><td align="center">
-
-**◫ Frontend**
-
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs&theme=dark)](https://skillicons.dev)
-
-</td></tr>
-<tr><td align="center">
-
-**◧ Backend & Databases**
-
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis,mysql&theme=dark)](https://skillicons.dev)
-
-</td></tr>
-<tr><td align="center">
-
-**☁ Cloud, DevOps & Tooling**
-
-[![Skills](https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman,nginx&theme=dark)](https://skillicons.dev)
-
-</td></tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
-
-## ◈ AI/ML Expertise
+## `02` &nbsp;Stack
 
 <div align="center">
 
-| Domain | Level |
-|:--|:--|
-| 🧠 LLMs | ![Expert](https://img.shields.io/badge/Expert-100%25-success?style=flat-square) |
-| 🔍 RAG | ![Expert](https://img.shields.io/badge/Expert-100%25-success?style=flat-square) |
-| 🤖 Agentic AI | ![Advanced](https://img.shields.io/badge/Advanced-90%25-blue?style=flat-square) |
-| 📦 Vector DB | ![Advanced](https://img.shields.io/badge/Advanced-85%25-blue?style=flat-square) |
-| ⚙️ MLOps | ![Intermediate](https://img.shields.io/badge/Intermediate-75%25-orange?style=flat-square) |
-| 👁️ Computer Vision | ![Intermediate](https://img.shields.io/badge/Intermediate-70%25-orange?style=flat-square) |
-| 📖 NLP | ![Advanced](https://img.shields.io/badge/Advanced-85%25-blue?style=flat-square) |
-| ☁️ GenAI Infrastructure | ![Expert](https://img.shields.io/badge/Expert-100%25-success?style=flat-square) |
+[![Stack](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=820&lines=%E2%96%B8+LANGUAGES+%E2%80%94+Python+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B+%C2%B7+SQL;%E2%96%B8+FRONTEND+%E2%80%94+React+%C2%B7+Next.js+%C2%B7+Tailwind+%C2%B7+Three.js;%E2%96%B8+BACKEND+%E2%80%94+Node.js+%C2%B7+Express+%C2%B7+FastAPI+%C2%B7+REST+%C2%B7+WebSockets;%E2%96%B8+DATA+%E2%80%94+MongoDB+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+MySQL+%C2%B7+FAISS;%E2%96%B8+AI+%E2%80%94+LangChain+%C2%B7+LangGraph+%C2%B7+CrewAI+%C2%B7+RAG+%C2%B7+Transformers;%E2%96%B8+INFRA+%E2%80%94+Docker+%C2%B7+AWS+%C2%B7+Nginx+%C2%B7+Linux+%C2%B7+Git+%C2%B7+CI%2FCD)](https://git.io/typing-svg)
+
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,react,nextjs,tailwind,threejs&theme=dark&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis,mysql,docker,aws,linux&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
-
-## ◈ Featured Projects
+<br/>
 
 <table width="100%">
 <tr>
-<td align="center">🩺 <b>SmartCare</b></td>
-<td align="center">🛰️ <b>DevRadar</b></td>
-<td align="center">🧬 <b>CORTEX</b></td>
-<td align="center">🧑‍💼 <b>TalentForge</b></td>
+<td width="50%" valign="top">
+
+**AI / ML depth**
+
+| Area | Level |
+|:--|:--|
+| LLM systems | `████████████` Expert |
+| RAG & retrieval | `████████████` Expert |
+| Agentic AI | `██████████░░` Advanced |
+| NLP | `██████████░░` Advanced |
+| Vector databases | `██████████░░` Advanced |
+| MLOps | `████████░░░░` Intermediate |
+| Computer vision | `████████░░░░` Intermediate |
+
+</td>
+<td width="50%" valign="top">
+
+**Engineering depth**
+
+| Area | Level |
+|:--|:--|
+| Backend / API design | `████████████` Expert |
+| React & frontend | `██████████░░` Advanced |
+| Databases & modelling | `██████████░░` Advanced |
+| System design | `██████████░░` Advanced |
+| DSA & algorithms | `████████████` Expert |
+| Cloud & DevOps | `████████░░░░` Intermediate |
+| Kubernetes | `██████░░░░░░` Learning |
+
+</td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
+
+## `03` &nbsp;Work
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🩺_SMARTCARE-0B0E14?style=flat-square&labelColor=7C3AED" height="28"/>
+<img src="https://img.shields.io/badge/🛰️_DEVRADAR-0B0E14?style=flat-square&labelColor=8B5CF6" height="28"/>
+<img src="https://img.shields.io/badge/🧬_CORTEX-0B0E14?style=flat-square&labelColor=22D3EE" height="28"/>
+<img src="https://img.shields.io/badge/🧑‍💼_TALENTFORGE-0B0E14?style=flat-square&labelColor=F472B6" height="28"/>
+
+</div>
 
 <br/>
 
 <details open>
-<summary><b>🩺 ◈ SmartCare — Intelligent Healthcare Platform</b></summary>
+<summary><b>&nbsp;🩺&nbsp; SmartCare — Intelligent Healthcare Platform</b></summary>
 
 <br/>
 
-**SmartCare** is a production-grade intelligent healthcare platform that leverages AI to streamline patient management, appointment scheduling, and clinical decision support. The system integrates multi-modal AI to assist healthcare providers with evidence-based recommendations and automates administrative workflows to reduce operational overhead.
+Production-grade healthcare platform that streamlines patient management, appointment scheduling, and clinical decision support. Multi-modal AI assists providers with evidence-based recommendations while administrative workflows run themselves.
 
-<div align="center">
+<img src="https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react" height="24"/>
+<img src="https://img.shields.io/badge/Node.js-0B0E14?style=flat-square&logo=nodedotjs" height="24"/>
+<img src="https://img.shields.io/badge/Express-0B0E14?style=flat-square&logo=express" height="24"/>
+<img src="https://img.shields.io/badge/MongoDB-0B0E14?style=flat-square&logo=mongodb" height="24"/>
+<img src="https://img.shields.io/badge/FastAPI-0B0E14?style=flat-square&logo=fastapi" height="24"/>
+<img src="https://img.shields.io/badge/LangChain-0B0E14?style=flat-square&logo=langchain" height="24"/>
+<img src="https://img.shields.io/badge/Redis-0B0E14?style=flat-square&logo=redis" height="24"/>
 
-| Attribute | Details |
+| | |
 |:--|:--|
-| **Stack** | React, Node.js, Express, MongoDB, Python, FastAPI, OpenAI API, LangChain |
-| **Scale** | Multi-tenant architecture with role-based access control for patients, doctors, and admins |
-| **Performance** | Sub-200ms API response times with Redis caching layer and database indexing |
-| **Security** | JWT authentication, HTTPS enforcement, data encryption at rest, HIPAA-aware design |
-| **Impact** | End-to-end automation of patient onboarding, diagnostics assistance, and appointment workflows |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-SmartCare--Platform-7C3AED?style=flat-square&logo=github)](https://github.com/gauravdev95/SmartCare-Platform) |
+| **Architecture** | Microservice-inspired monolith — the AI inference module scales independently of the core CRUD service |
+| **Scale** | Multi-tenant with role-based access for patients, doctors, and admins |
+| **Performance** | Sub-200ms API responses via a Redis caching layer and targeted database indexing |
+| **Security** | JWT auth, HTTPS enforcement, encryption at rest, HIPAA-aware data handling |
+| **Highlights** | RAG-powered symptom checker over a vector-indexed medical knowledge base · priority-queue appointment slot optimisation · WebSocket live notifications |
 
-</div>
+[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-0B0E14?style=flat-square&labelColor=7C3AED)](https://github.com/gauravdev95/SmartCare-Platform)
 
-The platform is built on a microservice-inspired monolith architecture enabling independent scaling of the AI inference module and the core CRUD service. Key engineering highlights include a RAG-powered symptom checker backed by a vector-indexed medical knowledge base, real-time appointment slot optimization using a priority queue algorithm, and a WebSocket-based live notification system.
-
-<br/>
 </details>
 
 <details>
-<summary><b>🛰️ ◈ DevRadar — AI-Powered Developer Discovery Engine</b></summary>
+<summary><b>&nbsp;🛰️&nbsp; DevRadar — AI-Powered Developer Discovery Engine</b></summary>
 
 <br/>
 
-**DevRadar** is an AI-native developer discovery and analytics engine that aggregates GitHub activity, contribution patterns, and technical signals to help engineering teams identify top contributors and open-source talent. It transforms unstructured developer data into structured, searchable intelligence.
+Developer discovery and analytics engine that aggregates GitHub activity, contribution patterns, and technical signals, turning unstructured developer data into structured, searchable intelligence for engineering teams.
 
-<div align="center">
+<img src="https://img.shields.io/badge/TypeScript-0B0E14?style=flat-square&logo=typescript" height="24"/>
+<img src="https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react" height="24"/>
+<img src="https://img.shields.io/badge/FastAPI-0B0E14?style=flat-square&logo=fastapi" height="24"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0B0E14?style=flat-square&logo=postgresql" height="24"/>
+<img src="https://img.shields.io/badge/FAISS-0B0E14?style=flat-square&logo=meta" height="24"/>
+<img src="https://img.shields.io/badge/LangChain-0B0E14?style=flat-square&logo=langchain" height="24"/>
 
-| Attribute | Details |
+| | |
 |:--|:--|
-| **Stack** | React, TypeScript, FastAPI, Python, PostgreSQL, LangChain, Sentence Transformers, FAISS |
-| **Scale** | Capable of indexing and ranking thousands of developer profiles via async batch processing |
-| **Performance** | Semantic search with sub-500ms retrieval over FAISS-indexed developer embeddings |
-| **Security** | GitHub OAuth 2.0 integration, scoped API token management, rate-limit middleware |
-| **Impact** | Reduces talent sourcing time by surfacing semantically similar contributors for any tech stack |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-dev--radar-4F46E5?style=flat-square&logo=github)](https://github.com/gauravdev95/dev-radar) |
+| **Architecture** | Two-stage pipeline — a Sentence Transformers embedding layer encodes profiles into high-dimensional vectors, then a ranking layer applies semantic similarity with BM25 hybrid retrieval |
+| **Scale** | Indexes and ranks thousands of developer profiles through async batch processing |
+| **Performance** | Sub-500ms semantic retrieval across a FAISS index |
+| **Security** | GitHub OAuth 2.0, scoped token management, rate-limit middleware |
+| **Highlights** | A LangChain agent reasons over developer signals in multiple steps to write recruiter-readable talent summaries |
 
-</div>
+[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-0B0E14?style=flat-square&labelColor=8B5CF6)](https://github.com/gauravdev95/dev-radar)
 
-The AI architecture is built around a two-stage pipeline: an **embedding layer** that encodes GitHub profiles into high-dimensional vectors using Sentence Transformers, and a **ranking layer** that applies semantic similarity scoring with BM25 hybrid retrieval. A LangChain agent orchestrates multi-step reasoning over developer signals to generate human-readable talent summaries for recruiters.
-
-<br/>
 </details>
 
 <details>
-<summary><b>🧬 ◈ CORTEX — Multi-Agent AI Orchestration Framework</b></summary>
+<summary><b>&nbsp;🧬&nbsp; CORTEX — Multi-Agent AI Orchestration Framework</b></summary>
 
 <br/>
 
-**CORTEX** is a production-hardened multi-agent AI orchestration framework designed for complex, long-horizon reasoning tasks. It implements a hierarchical agent architecture with a supervisor agent that dynamically routes subtasks to specialized sub-agents, monitors execution state, and triggers automated recovery workflows on failure.
+Production-hardened orchestration framework for long-horizon reasoning. A supervisor agent routes subtasks to specialised sub-agents, tracks execution state, and triggers automated recovery when something fails.
 
-<div align="center">
+<img src="https://img.shields.io/badge/Python-0B0E14?style=flat-square&logo=python" height="24"/>
+<img src="https://img.shields.io/badge/LangGraph-0B0E14?style=flat-square&logo=langgraph" height="24"/>
+<img src="https://img.shields.io/badge/CrewAI-0B0E14?style=flat-square&logo=crewai" height="24"/>
+<img src="https://img.shields.io/badge/Redis-0B0E14?style=flat-square&logo=redis" height="24"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0B0E14?style=flat-square&logo=postgresql" height="24"/>
+<img src="https://img.shields.io/badge/Claude-0B0E14?style=flat-square&logo=anthropic" height="24"/>
 
-| Attribute | Details |
+| | |
 |:--|:--|
-| **Stack** | Python, LangGraph, CrewAI, FastAPI, Redis, PostgreSQL, OpenAI GPT-4o, Anthropic Claude |
-| **Scale** | Supports concurrent multi-agent execution with distributed state management via Redis |
-| **Performance** | Persistent memory across agent turns with context compression for long-running workflows |
-| **Security** | Tool sandboxing, agent permission scopes, and audit logging for every agent action |
-| **Impact** | Reduces manual intervention in multi-step AI pipelines by enabling self-healing task recovery |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-CORTEX-6D28D9?style=flat-square&logo=github)](https://github.com/gauravdev95/CORTEX) |
+| **Architecture** | Hierarchical agents with distributed state in Redis and checkpoints in PostgreSQL |
+| **Reliability** | On failure the supervisor detects the missed heartbeat, re-hydrates the last valid checkpoint, and either retries on a fallback LLM provider or reassigns to another sub-agent — progress survives transient outages and rate limits |
+| **Memory** | Persistent context across agent turns with compression for long-running workflows |
+| **Security** | Tool sandboxing, per-agent permission scopes, full audit log of every action |
 
-</div>
+[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-0B0E14?style=flat-square&labelColor=22D3EE)](https://github.com/gauravdev95/CORTEX)
 
-The recovery workflow is central to CORTEX's reliability guarantee. Each agent execution is checkpointed to a PostgreSQL-backed state store. When an agent fails mid-task, the supervisor detects the failure via a heartbeat mechanism, re-hydrates the last valid state from the checkpoint, and either retries the subtask with a fallback LLM provider or reassigns it to an alternate sub-agent. This makes CORTEX resilient to transient model outages and API rate limits without losing task progress.
-
-<br/>
 </details>
 
 <details>
-<summary><b>🧑‍💼 ◈ TalentForge — AI-Driven Recruitment Intelligence Platform</b></summary>
+<summary><b>&nbsp;🧑‍💼&nbsp; TalentForge — AI Recruitment Intelligence Platform</b></summary>
 
 <br/>
 
-**TalentForge** is a full-stack AI recruitment platform developed as part of **Smart India Hackathon (SIH)**, built to modernize the hiring pipeline for large-scale organizations. It uses NLP-powered resume parsing, JD matching, and a conversational AI interviewer to reduce time-to-hire and improve candidate-role fit scoring.
+Built for **Smart India Hackathon**. Modernises hiring for large organisations with NLP resume parsing, JD matching, and a conversational AI interviewer that cuts time-to-hire.
 
-<div align="center">
+<img src="https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react" height="24"/>
+<img src="https://img.shields.io/badge/Node.js-0B0E14?style=flat-square&logo=nodedotjs" height="24"/>
+<img src="https://img.shields.io/badge/MongoDB-0B0E14?style=flat-square&logo=mongodb" height="24"/>
+<img src="https://img.shields.io/badge/FastAPI-0B0E14?style=flat-square&logo=fastapi" height="24"/>
+<img src="https://img.shields.io/badge/spaCy-0B0E14?style=flat-square&logo=spacy" height="24"/>
 
-| Attribute | Details |
+| | |
 |:--|:--|
-| **Stack** | React, Node.js, MongoDB, Python, FastAPI, spaCy, Sentence Transformers, LangChain |
-| **Scale** | Designed for enterprise recruitment pipelines processing hundreds of applications per hour |
-| **Performance** | 85%+ accuracy on JD-resume semantic matching benchmarks; sub-second screening per candidate |
-| **Security** | Candidate PII encryption, RBAC for HR, interviewer, and admin roles |
-| **Impact** | Automates resume shortlisting, interview scheduling, and preliminary technical screening |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-TalentForge-8B5CF6?style=flat-square&logo=github)](https://github.com/gauravdev95) |
+| **Architecture** | Three chained models — an NER extractor for skills and experience, a bi-encoder for JD-resume similarity, and a conversational agent for pre-screening |
+| **Scale** | Designed for enterprise pipelines handling hundreds of applications per hour |
+| **Performance** | 85%+ accuracy on JD-resume semantic matching; sub-second screening per candidate |
+| **Security** | Candidate PII encryption, RBAC across HR, interviewer, and admin roles |
 
-</div>
+[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-0B0E14?style=flat-square&labelColor=F472B6)](https://github.com/gauravdev95)
 
-TalentForge was built during an intensive national-level hackathon sprint and recognized among the top submissions. The system's AI pipeline chains three models: a **NER extractor** for skills and experience parsing, a **bi-encoder** for semantic JD-resume similarity scoring, and a **conversational agent** for automated candidate pre-screening — dramatically reducing recruiter workload on high-volume hiring drives.
-
-<br/>
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
-## ◈ Experience
+## `04` &nbsp;Experience
 
 <table width="100%">
 <tr>
-<td width="6%" align="center">🏢</td>
-<td width="94%">
+<td width="4%" valign="top">▹</td>
+<td valign="top">
 
-### AI/ML Intern — *Infosys Springboard*
-`April 2026 – Present (3 months)`
+### AI/ML Intern &nbsp;·&nbsp; Infosys Springboard
+`Apr 2026 — Present`
 
-Engaged in applied AI research and development within Infosys Springboard's structured learning and project delivery program. Working on building intelligent automation solutions using Large Language Models, RAG pipelines, and agentic workflows.
+Applied AI research and delivery inside Infosys Springboard's structured program, building intelligent automation on LLMs, retrieval, and agentic workflows.
 
-- Designed and deployed end-to-end RAG pipelines integrating document ingestion, vector indexing, and LLM-powered query resolution
-- Built multi-agent orchestration workflows using LangChain and LangGraph for automated document analysis and summarization tasks
-- Developed FastAPI-based inference microservices exposing AI capabilities as production-ready REST endpoints
-- Applied prompt engineering patterns (chain-of-thought, few-shot, structured output) for consistent and reliable LLM responses
+- Designed and deployed end-to-end **RAG pipelines** covering document ingestion, vector indexing, and LLM query resolution
+- Built **multi-agent orchestration** workflows in LangChain and LangGraph for automated document analysis and summarisation
+- Shipped **FastAPI inference microservices** exposing AI capabilities as production REST endpoints
+- Applied chain-of-thought, few-shot, and structured-output prompting for consistent, reliable model responses
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG%20Pipelines-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-0B0E14?style=flat-square&logo=python" height="22"/> <img src="https://img.shields.io/badge/LangChain-0B0E14?style=flat-square&logo=langchain" height="22"/> <img src="https://img.shields.io/badge/FastAPI-0B0E14?style=flat-square&logo=fastapi" height="22"/> <img src="https://img.shields.io/badge/RAG-0B0E14?style=flat-square&labelColor=7C3AED" height="22"/>
 
 </td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr>
-<td width="6%" align="center">🏢</td>
-<td width="94%">
+<td width="4%" valign="top">▹</td>
+<td valign="top">
 
-### Full Stack Developer Intern — *CodSoft*
-`Dec 2025 – March 2026`
+### Full Stack Developer Intern &nbsp;·&nbsp; CodSoft
+`Dec 2025 — Mar 2026`
 
-Developed and shipped production-ready full stack web applications as part of an internship program, gaining hands-on experience in the complete MERN development lifecycle from requirement gathering to deployment.
+Shipped production MERN applications across the full lifecycle, from requirements through deployment.
 
-- Built responsive, accessible frontend interfaces using React and Tailwind CSS with a focus on performance and UX
-- Designed and implemented RESTful APIs using Node.js and Express with MongoDB as the primary datastore
-- Integrated third-party APIs and implemented JWT-based authentication and role-based authorization systems
-- Deployed applications to cloud infrastructure with CI/CD pipelines and environment-based configuration management
+- Built responsive, accessible interfaces in React and Tailwind with performance and UX as the constraint
+- Designed **RESTful APIs** in Node.js and Express against MongoDB
+- Integrated third-party APIs and implemented JWT auth with role-based authorization
+- Deployed to cloud infrastructure with CI/CD and environment-based configuration
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react" height="22"/> <img src="https://img.shields.io/badge/Node.js-0B0E14?style=flat-square&logo=nodedotjs" height="22"/> <img src="https://img.shields.io/badge/MongoDB-0B0E14?style=flat-square&logo=mongodb" height="22"/> <img src="https://img.shields.io/badge/Express-0B0E14?style=flat-square&logo=express" height="22"/>
 
 </td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr>
-<td width="6%" align="center">🏢</td>
-<td width="94%">
+<td width="4%" valign="top">▹</td>
+<td valign="top">
 
-### Full Stack Trainee — *IBM SkillsBuild*
-`June 2025 – Aug 2025`
+### Full Stack Trainee &nbsp;·&nbsp; IBM SkillsBuild
+`Jun 2025 — Aug 2025`
 
-Completed IBM SkillsBuild's structured full stack development training program, building enterprise-grade applications with IBM-recommended architecture patterns and cloud-native tooling.
+Completed IBM's structured full stack program, building applications on enterprise architecture patterns and cloud-native tooling.
 
-- Acquired proficiency in full stack development encompassing frontend frameworks, backend APIs, and cloud deployment
-- Built applications following IBM's enterprise software development practices including modular architecture and documentation standards
-- Worked with IBM Cloud services and toolchain integrations for collaborative development and deployment
+- Covered frontend frameworks, backend APIs, and cloud deployment as one continuous pipeline
+- Followed IBM's enterprise practices for modular architecture and documentation standards
+- Worked with IBM Cloud services and toolchain integrations for collaborative delivery
 
-<img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM_Cloud-0B0E14?style=flat-square&logo=ibmcloud" height="22"/> <img src="https://img.shields.io/badge/JavaScript-0B0E14?style=flat-square&logo=javascript" height="22"/> <img src="https://img.shields.io/badge/Docker-0B0E14?style=flat-square&logo=docker" height="22"/>
 
 </td>
 </tr>
@@ -377,167 +313,119 @@ Completed IBM SkillsBuild's structured full stack development training program, 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
-## ◈ Achievements
+## `05` &nbsp;Signals
 
 <div align="center">
 
-| 🏆 Recognition | Details |
-|:--|:--|
-| **CodeChef 4★ Rating** | Achieved 4-star competitive programming rating — Top tier across national CodeChef community |
-| **800+ DSA Problems Solved** | Solved 800+ algorithmic problems across LeetCode, CodeChef, GeeksforGeeks, and Codeforces |
-| **College Aptitude Rank #8 / 300+** | Secured rank 8 out of 300+ students in college-wide aptitude assessment |
-| **Smart India Hackathon** | Selected participant — built TalentForge, an AI recruitment intelligence platform |
-| **GSSoC Contributor** | Active contributor in GirlScript Summer of Code open-source program |
-| **ECWoC Contributor** | Participated and contributed in ELITMUS Code Winter of Code program |
-| **AI/ML Intern — Infosys** | Selected for Infosys Springboard AI/ML internship through competitive selection |
-| **Full Stack Developer — CodSoft** | Completed and delivered full stack development internship with production deployments|
+<img src="https://github-profile-trophy.vercel.app/?username=gauravdev95&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
-
-## ◈ Certifications
 
 <table width="100%">
-<tr><td align="center">
+<tr>
+<td width="50%" valign="top">
 
-**☁ AWS**
+**Achievements**
 
-[![AWS](https://img.shields.io/badge/AWS%20Academy%20Graduate-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/awsacademy/)
+| | |
+|:--|:--|
+| **CodeChef 4★** | Top-tier competitive rating on CodeChef |
+| **800+ DSA** | Solved across LeetCode, CodeChef, GFG, Codeforces |
+| **Rank #8 / 300+** | College-wide aptitude assessment |
+| **Smart India Hackathon** | Selected participant — built TalentForge |
+| **GSSoC** | Contributor, GirlScript Summer of Code |
+| **ECWoC** | Contributor, ELiTMUS Code Winter of Code |
 
+</td>
+<td width="50%" valign="top">
 
-</td></tr>
-<tr><td align="center">
+**Certifications**
 
+| | |
+|:--|:--|
+| **AWS Academy** | Cloud Foundations Graduate |
+| **NPTEL** | Programming in Python |
+| **Infosys Springboard** | Generative AI |
+| **Infosys Springboard** | Machine Learning |
 
+**Competitive profiles**
 
-</td></tr>
-<tr><td align="center">
+[![LeetCode](https://img.shields.io/badge/LeetCode-0B0E14?style=flat-square&logo=leetcode&labelColor=F59E0B)](https://leetcode.com/gauravdev95/)
+[![CodeChef](https://img.shields.io/badge/CodeChef_4★-0B0E14?style=flat-square&logo=codechef&labelColor=5B4638)](https://www.codechef.com/users/gauravdev95)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-0B0E14?style=flat-square&logo=geeksforgeeks&labelColor=2F8D46)](https://www.geeksforgeeks.org/user/gauravyddev/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0B0E14?style=flat-square&logo=hackerrank&labelColor=00EA64)](https://www.hackerrank.com/gauravyddev)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0B0E14?style=flat-square&logo=codeforces&labelColor=1F8ACB)](https://codeforces.com/profile/gauravdev95)
 
-**🐍 NPTEL**
-
-[![NPTEL](https://img.shields.io/badge/NPTEL-Programming%20in%20Python-0072C6?style=for-the-badge&logo=python&logoColor=white)](https://nptel.ac.in/)
-
-
-</td></tr>
-<tr><td align="center">
-
-**🔐 Cisco**
-
-
-
-</td></tr>
-<tr><td align="center">
-
-**◈ Infosys**
-
-[![Infosys](https://img.shields.io/badge/Infosys%20Springboard-Generative%20AI-006B7D?style=for-the-badge&logo=infosys&logoColor=white)](https://springboard.infosysapps.com/)
-[![Infosys](https://img.shields.io/badge/Infosys%20Springboard-Machine%20Learning-006B7D?style=for-the-badge&logo=infosys&logoColor=white)](https://springboard.infosysapps.com/)
-
-</td></tr>
+</td>
+</tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
-
-## ◈ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/gauravdev95/)
-[![CodeChef](https://img.shields.io/badge/CodeChef%204★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gauravdev95)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/gauravyddev/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gauravyddev)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gauravdev95)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
-
-## ◈ GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravdev95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=4F46E5&text_color=c9d1d9&border_radius=12&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdev95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&border_radius=12&langs_count=8" />
-
-<br/>
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=gauravdev95&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=4F46E5&fire=8B5CF6&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=6b7280&border_radius=12" />
-
-</div>
-
-
-### ◈ Contribution Activity
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravdev95&bg_color=0d1117&color=7C3AED&line=4F46E5&point=8B5CF6&area=true&area_color=3B0764&hide_border=true&border_radius=12&custom_title=Gaurav%27s%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravdev95&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=A78BFA&icon_color=22D3EE&text_color=8899AA&ring_color=7C3AED&border_radius=10&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdev95&layout=compact&hide_border=true&bg_color=0B0E14&title_color=A78BFA&text_color=8899AA&border_radius=10&langs_count=8"/>
 
-</div>
+<br/><br/>
 
-### ◈ Contribution Snake
+<img height="165" src="https://streak-stats.demolab.com?user=gauravdev95&hide_border=true&background=0B0E14&stroke=1B2130&ring=7C3AED&fire=22D3EE&currStreakNum=E9D5FF&sideNums=8899AA&currStreakLabel=A78BFA&sideLabels=8899AA&dates=5B6478&border_radius=10"/>
 
-<div align="center">
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravdev95&bg_color=0B0E14&color=A78BFA&line=7C3AED&point=22D3EE&area=true&area_color=1E1035&hide_border=true&border_radius=10&custom_title=Contribution%20Activity" width="100%"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravdev95/gauravdev95/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravdev95/gauravdev95/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gauravdev95/gauravdev95/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravdev95/gauravdev95/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravdev95/gauravdev95/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/gauravdev95/gauravdev95/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
-## ◈ Current Focus
+## `06` &nbsp;Connect
 
 ```yaml
-# gaurav-yadav — current-focus.yaml
+# ~/gaurav/now.yaml
 
 learning:
-  - Advanced Agentic AI Architectures with LangGraph and Multi-Agent Memory Systems
-  - Distributed Systems Design — Consensus Protocols, CRDT, Event Sourcing
-  - System Design at Scale — Load Balancing, Database Sharding, CDN Architecture
-  - Kubernetes and Cloud-Native Application Deployment Patterns
+  - Agentic architectures — LangGraph, multi-agent memory systems
+  - Distributed systems — consensus protocols, CRDTs, event sourcing
+  - System design at scale — load balancing, sharding, CDN architecture
+  - Kubernetes and cloud-native deployment patterns
 
 building:
-  - CORTEX — production-grade multi-agent orchestration framework with self-healing recovery
-  - AI-powered developer tooling to reduce friction in software engineering workflows
-  - Open-source contributions to LangChain ecosystem and FastAPI extensions
+  - CORTEX — multi-agent orchestration with self-healing task recovery
+  - AI developer tooling that removes friction from engineering workflows
+  - Open-source contributions to the LangChain ecosystem and FastAPI extensions
 
 exploring:
-  - Mixture of Experts (MoE) architectures and sparse model inference optimization
-  - WebAssembly for compute-intensive browser-side AI inference
-  - Real-time AI applications with streaming LLM responses and SSE pipelines
+  - Mixture-of-Experts architectures and sparse inference optimisation
+  - WebAssembly for compute-heavy browser-side inference
+  - Real-time AI with streaming LLM responses over SSE
 
 open_to:
-  - Full-time Software Engineering roles — Backend, Full Stack, AI/ML
-  - Research collaborations in Generative AI and Agentic systems
+  - Full-time SWE roles — backend, full stack, AI/ML
+  - Research collaboration in generative AI and agentic systems
   - Open-source mentorship and code review partnerships
-  - Technical content creation and engineering blog contributions
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
-
-## ◈ Connect
-
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-gauravyddev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravyddev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravyadav95-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravyadav95/)
-[![GitHub](https://img.shields.io/badge/GitHub-gauravdev95-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravdev95)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://threed-portfolio-msx7.onrender.com/)
-
-</div>
 
 <br/>
 
-<div align="center">
+[![Contact](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=700&lines=Let's+build+something+that+ships.;gauravyddev%40gmail.com;Open+to+full-time+SWE+%C2%B7+Backend+%C2%B7+AI%2FML)](https://git.io/typing-svg)
 
-*"Engineering is not just about writing code — it is about solving problems that matter, at the scale that matters, with the precision that matters."*
+<a href="mailto:gauravyddev@gmail.com"><img src="https://img.shields.io/badge/gauravyddev@gmail.com-0B0E14?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" height="32"/></a>
+<a href="https://www.linkedin.com/in/gauravyadav95/"><img src="https://img.shields.io/badge/gauravyadav95-0B0E14?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="32"/></a>
+<a href="https://github.com/gauravdev95"><img src="https://img.shields.io/badge/gauravdev95-0B0E14?style=flat-square&logo=github&logoColor=white&labelColor=181717" height="32"/></a>
+<a href="https://threed-portfolio-msx7.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0B0E14?style=flat-square&logo=vercel&logoColor=white&labelColor=7C3AED" height="32"/></a>
 
-<br/>
+<br/><br/>
+
+*Engineering isn't just writing code — it's solving problems that matter, at the scale that matters, with the precision that matters.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
