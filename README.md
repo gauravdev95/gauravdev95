@@ -18,8 +18,7 @@
 <h3 style="color: #a1a1aa; font-weight: 500; margin-bottom: 24px;">Software Engineer • AI Systems • Full Stack Developer</h3>
 
 <!-- Animated typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=50&lines=RAG+Pipelines+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+Production+Backends;MERN+%E2%80%A2+FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+Vector+Search;800%2B+DSA+Solved+%E2%80%A2+CodeChef+4%E2%98%85+%E2%80%A2+Open+Source;From+Idea+to+Deploy+%E2%80%94+I+Ship+the+Whole+Thing" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=RAG+Pipelines+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+Production+Backends;MERN+%E2%80%A2+FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+Vector+Search;800%2B+DSA+Solved+%E2%80%A2+CodeChef+4%E2%98%85+%E2%80%A2+Open+Source;From+Idea+to+Deploy+%E2%80%94+I+Ship+the+Whole+Thing" alt="Typing SVG" />
 <br/><br/>
 
 <!-- Quick Links -->
