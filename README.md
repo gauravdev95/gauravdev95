@@ -6,7 +6,7 @@
 
 <!-- Profile with BIG SIZE - NOT SMALL! -->
 <a href="https://github.com/gauravdev95">
-  <img src="https://github.com/gauravdev95.png" width="240" height="240" style="border-radius: 50%; border: 5px solid #a78bfa; box-shadow: 0 0 70px rgba(167, 139, 250, 0.8), 0 0 140px rgba(229, 77, 94, 0.5); margin-top: -120px; position: relative; z-index: 10;"/>
+  <img src="https://github.com/profile_photo.jpeg" width="240" height="240" style="border-radius: 50%; border: 5px solid #a78bfa; box-shadow: 0 0 70px rgba(167, 139, 250, 0.8), 0 0 140px rgba(229, 77, 94, 0.5); margin-top: -120px; position: relative; z-index: 10;"/>
 </a>
 
 <br/>
