@@ -5,9 +5,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e54d5e,30:8b5cf6,60:a78bfa,100:0b0e14&height=280&section=header&text=GAURAV%20YADAV&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Full%20Stack&descAlignY=58&descSize=20" width="100%"/>
 
 <!-- Profile with BIG SIZE - NOT SMALL! -->
-<a href="https://github.com/gauravdev95">
-  <img src="https://github.com/profile_photo.jpeg" width="240" height="240" style="border-radius: 50%; border: 5px solid #a78bfa; box-shadow: 0 0 70px rgba(167, 139, 250, 0.8), 0 0 140px rgba(229, 77, 94, 0.5); margin-top: -120px; position: relative; z-index: 10;"/>
-</a>
+<p align="center">
+  <a href="https://github.com/gauravdev95">
+    <img
+      src="./profile_photo.jpeg"
+      width="240"
+      height="240"
+      alt="Gaurav Yadav"
+      style="
+        border-radius: 50%;
+        border: 5px solid #a78bfa;
+        box-shadow:
+          0 0 30px rgba(167, 139, 250, 0.8),
+          0 0 70px rgba(229, 77, 94, 0.5);
+      "
+    />
+  </a>
+</p>
 
 <br/>
 
