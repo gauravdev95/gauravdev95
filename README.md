@@ -65,7 +65,7 @@
 > ### 💡 *"I build things that ship — not repos that sit."*
 
 **CSE undergrad** at *Hindustan College of Science and Technology* (2023–2027)  
-Currently **AI/ML Intern @ Infosys Springboard** 🚀
+Former **AI/ML Intern @ Infosys Springboard** 🚀
 
 I design and ship full-stack systems end to end, going deeper into **applied AI** — retrieval pipelines, multi-agent orchestration, and LLM-powered products through projects like **CORTEX** and **DevRadar**.
 
@@ -305,7 +305,7 @@ I design and ship full-stack systems end to end, going deeper into **applied AI*
 ## 💼 Work Experience
 
 ### 🤖 AI/ML Intern @ Infosys Springboard
-**📅 Apr 2026 — Present**
+**📅 Apr 2026 — Aug 2026**
 
 Applied AI research and delivery inside Infosys Springboard's structured program, building intelligent automation on LLMs, retrieval, and agentic workflows.
 
