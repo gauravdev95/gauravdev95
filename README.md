@@ -133,6 +133,8 @@ I design and ship full-stack systems end to end, going deeper into **applied AI*
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,docker,aws,linux,git,github,nginx&perline=10&theme=dark" />
 
 ### 🤖 AI/ML Stack
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&perline=4&theme=dark" />
+
 <img src="https://img.shields.io/badge/LangChain-0B0E14?style=flat-square&logo=langchain&labelColor=0D1117" height="28"/>
 <img src="https://img.shields.io/badge/LangGraph-0B0E14?style=flat-square&logo=langgraph&labelColor=0D1117" height="28"/>
 <img src="https://img.shields.io/badge/CrewAI-0B0E14?style=flat-square&logo=crewai&labelColor=0D1117" height="28"/>
