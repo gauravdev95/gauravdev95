@@ -252,7 +252,7 @@ I design and ship full-stack systems end to end, going deeper into **applied AI*
 | **⚡ Performance** | 85%+ accuracy on JD-resume matching • Sub-second screening per candidate |
 | **🛡️ Security** | PII Encryption • RBAC across HR/Interviewer/Admin roles |
 
-<a href="https://github.com/gauravdev95"><img src="https://img.shields.io/badge/🚀_VIEW_REPOSITORY-0B0E14?style=flat-square&labelColor=F472B6" height="32"/></a>
+<a href="https://github.com/gauravdev95/talentforge"><img src="https://img.shields.io/badge/🚀_VIEW_REPOSITORY-0B0E14?style=flat-square&labelColor=F472B6" height="32"/></a>
 
 </div>
 
