@@ -95,7 +95,7 @@ I design and ship full-stack systems end to end, going deeper into **applied AI*
 <br/><br/>
 
 <!-- Contribution activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gauravdev95&bg_color=0b0e14&color=a78bfa&line=a855f7&point=7ee787&area=true&area_color=1E1035&hide_border=true&height=280&border_radius=16" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph-fawn.vercel.app/graph?username=gauravdev95&bg_color=0b0e14&color=a78bfa&line=a855f7&point=7ee787&area=true&area_color=1E1035&hide_border=true&height=280&border_radius=16" alt="Contribution Graph" />
 
 <br/><br/>
 
