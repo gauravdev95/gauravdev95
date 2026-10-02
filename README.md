@@ -88,13 +88,25 @@ I design and ship full-stack systems end to end, going deeper into **applied AI*
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=gauravdev95&show_icons=true&theme=transparent&hide_border=true&bg_color=0b0e14&title_color=a78bfa&icon_color=e54d5e&text_color=e9edf3&border_radius=16&count_private=true&include_all_commits=true" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdev95&theme=transparent&background=0b0e14&border=0&stroke=a78bfa&ring=a855f7&fire=e17055&currStreakLabel=e9edf3&sideNums=e9edf3&sideLabels=e9edf3&dates=a1a1aa" width="400" /> |
+<!-- Stats + Streak — equal height so they line up -->
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=gauravdev95&show_icons=true&theme=transparent&hide_border=true&bg_color=0b0e14&title_color=a78bfa&icon_color=e54d5e&text_color=e9edf3&border_radius=16&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdev95&theme=transparent&background=0b0e14&border=0&stroke=a78bfa&ring=a855f7&fire=e17055&currStreakLabel=e9edf3&sideNums=e9edf3&sideLabels=e9edf3&dates=a1a1aa" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravdev95&bg_color=0b0e14&color=a78bfa&line=a855f7&point=7ee787&area=true&area_color=1E1035&hide_border=true&height=220&border_radius=16" alt="Activity Graph" width="95%"/>
+<!-- Contribution activity graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gauravdev95&bg_color=0b0e14&color=a78bfa&line=a855f7&point=7ee787&area=true&area_color=1E1035&hide_border=true&height=280&border_radius=16" alt="Contribution Graph" />
+
+<br/><br/>
+
+<!-- Language analytics -->
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravdev95&theme=github_dark" alt="Top Languages by Repo" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravdev95&theme=github_dark" alt="Most Commit Language" />
+
+<br/><br/>
+
+<!-- Productive time (IST) -->
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gauravdev95&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 
 </div>
 
