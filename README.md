@@ -116,7 +116,7 @@ I design and ship full-stack systems end to end, going deeper into **applied AI*
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gauravdev95&theme=onedark&no-frame=true&no-bg=true&column=8&margin-w=12&margin-h=12" width="100%"/>
+<img src="./trophy-card.svg" width="720" alt="Trophy Collection"/>
 
 </div>
 
