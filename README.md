@@ -317,59 +317,7 @@ Completed IBM's structured full stack program, building applications on enterpri
 
 <div align="center">
 
-<!-- OmniRoute-style stat chips for Achievements -->
-<table>
-<tr>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/CodeChef-4★-161b22?style=for-the-badge&labelColor=6c5ce7" height="70"/>
-<br/><sub>🥇 Top-tier competitive rating</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/DSA-800+-161b22?style=for-the-badge&labelColor=22c55e" height="70"/>
-<br/><sub>💪 Solved across platforms</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/Rank-8_/_300+-161b22?style=for-the-badge&labelColor=e17055" height="70"/>
-<br/><sub>🎯 College aptitude assessment</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/Smart_India-Hackathon-161b22?style=for-the-badge&labelColor=0984e3" height="70"/>
-<br/><sub>🏆 Selected participant</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/GSSoC-Contributor-161b22?style=for-the-badge&labelColor=fdcb6e" height="70"/>
-<br/><sub>🌟 Summer of Code</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/ECWoC-Contributor-161b22?style=for-the-badge&labelColor=a78bfa" height="70"/>
-<br/><sub>❄️ Winter of Code</sub>
-</td>
-</tr>
-</table>
-
-<!-- Certifications -->
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-161b22?style=for-the-badge&labelColor=FF9900" height="60"/>
-<br/><sub>☁️ Graduate</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/NPTEL-Python-161b22?style=for-the-badge&labelColor=3776AB" height="60"/>
-<br/><sub>🐍 Programming in Python</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Infosys-Generative_AI-161b22?style=for-the-badge&labelColor=0066CC" height="60"/>
-<br/><sub>🤖 Springboard</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Infosys-Machine_Learning-161b22?style=for-the-badge&labelColor=0066CC" height="60"/>
-<br/><sub>📊 Springboard</sub>
-</td>
-</tr>
-</table>
-
-<br/>
+<img src="./achievements-card.svg" width="720" alt="Achievements & Certifications"/>
 
 ### 🎮 Competitive Profiles
 

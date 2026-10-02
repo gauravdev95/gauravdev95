@@ -1,0 +1,75 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='720' height='486' viewBox='0 0 720 486'>
+<defs>
+<linearGradient id='aborder' x1='0' y1='0' x2='1' y2='1'>
+<stop offset='0' stop-color='#a78bfa'/><stop offset='.5' stop-color='#f472b6'/><stop offset='1' stop-color='#8b5cf6'/>
+</linearGradient>
+<linearGradient id='aglow' x1='0' y1='0' x2='1' y2='1'>
+<stop offset='0' stop-color='#8b5cf6'/><stop offset='1' stop-color='#ec4899'/>
+</linearGradient>
+<filter id='asoft' x='-40%' y='-40%' width='180%' height='180%'><feGaussianBlur stdDeviation='20'/></filter>
+</defs>
+<style>@keyframes at0{0%{opacity:0;transform:translateY(10px)}2.50%{opacity:0;transform:translateY(10px)}8.33%{opacity:1;transform:translateY(0)}90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}#at0{animation:at0 12.0s ease-out infinite}@keyframes at1{0%{opacity:0;transform:translateY(10px)}4.00%{opacity:0;transform:translateY(10px)}9.83%{opacity:1;transform:translateY(0)}90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}#at1{animation:at1 12.0s ease-out infinite}@keyframes at2{0%{opacity:0;transform:translateY(10px)}5.50%{opacity:0;transform:translateY(10px)}11.33%{opacity:1;transform:translateY(0)}90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}#at2{animation:at2 12.0s ease-out infinite}@keyframes at3{0%{opacity:0;transform:translateY(10px)}7.00%{opacity:0;transform:translateY(10px)}12.83%{opacity:1;transform:translateY(0)}90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}#at3{animation:at3 12.0s ease-out infinite}@keyframes at4{0%{opacity:0;transform:translateY(10px)}8.50%{opacity:0;transform:translateY(10px)}14.33%{opacity:1;transform:translateY(0)}90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}#at4{animation:at4 12.0s ease-out infinite}@keyframes at5{0%{opacity:0;transform:translateY(10px)}10.00%{opacity:0;transform:translateY(10px)}15.83%{opacity:1;transform:translateY(0)}90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}#at5{animation:at5 12.0s ease-out infinite}@keyframes at6{0%{opacity:0;transform:translateY(10px)}11.50%{opacity:0;transform:translateY(10px)}17.33%{opacity:1;transform:translateY(0)}90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}#at6{animation:at6 12.0s ease-out infinite}@keyframes at7{0%{opacity:0;transform:translateY(10px)}13.00%{opacity:0;transform:translateY(10px)}18.83%{opacity:1;transform:translateY(0)}90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}#at7{animation:at7 12.0s ease-out infinite}@keyframes at8{0%{opacity:0;transform:translateY(10px)}14.50%{opacity:0;transform:translateY(10px)}20.33%{opacity:1;transform:translateY(0)}90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}#at8{animation:at8 12.0s ease-out infinite}@keyframes at9{0%{opacity:0;transform:translateY(10px)}16.00%{opacity:0;transform:translateY(10px)}21.83%{opacity:1;transform:translateY(0)}90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}#at9{animation:at9 12.0s ease-out infinite}</style>
+<rect x='8' y='8' width='704' height='470' rx='16' fill='url(#aglow)' opacity='.35' filter='url(#asoft)'/>
+<rect x='6' y='6' width='708' height='474' rx='14' fill='#0d1117' stroke='url(#aborder)' stroke-width='2'/>
+<text x='16' y='46' font-family='monospace' font-size='15' font-weight='bold' letter-spacing='3' fill='#c4b5fd'>🏆 ACHIEVEMENTS</text><g id='at0'>
+<rect x='16' y='66' width='221' height='112' rx='12' fill='#11161d' stroke='#6c5ce7' stroke-opacity='.35' stroke-width='1.5'/>
+<rect x='16' y='66' width='221' height='5' rx='2.5' fill='#6c5ce7' opacity='.9'/>
+<text x='32' y='102' font-size='24'>🥇</text>
+<text x='32' y='130' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='15' font-weight='bold' fill='#ffffff' textLength='185' lengthAdjust='spacingAndGlyphs'>CodeChef 4★</text>
+<text x='32' y='154' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='11.5' fill='#8b949e'>Top-tier competitive rating</text>
+</g><g id='at1'>
+<rect x='249' y='66' width='221' height='112' rx='12' fill='#11161d' stroke='#22c55e' stroke-opacity='.35' stroke-width='1.5'/>
+<rect x='249' y='66' width='221' height='5' rx='2.5' fill='#22c55e' opacity='.9'/>
+<text x='265' y='102' font-size='24'>💪</text>
+<text x='265' y='130' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='15' font-weight='bold' fill='#ffffff' textLength='185' lengthAdjust='spacingAndGlyphs'>DSA 800+</text>
+<text x='265' y='154' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='11.5' fill='#8b949e'>Solved across platforms</text>
+</g><g id='at2'>
+<rect x='482' y='66' width='221' height='112' rx='12' fill='#11161d' stroke='#e17055' stroke-opacity='.35' stroke-width='1.5'/>
+<rect x='482' y='66' width='221' height='5' rx='2.5' fill='#e17055' opacity='.9'/>
+<text x='498' y='102' font-size='24'>🎯</text>
+<text x='498' y='130' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='15' font-weight='bold' fill='#ffffff' textLength='185' lengthAdjust='spacingAndGlyphs'>Rank 8 / 300+</text>
+<text x='498' y='154' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='11.5' fill='#8b949e'>College aptitude assessment</text>
+</g><g id='at3'>
+<rect x='16' y='190' width='221' height='112' rx='12' fill='#11161d' stroke='#0984e3' stroke-opacity='.35' stroke-width='1.5'/>
+<rect x='16' y='190' width='221' height='5' rx='2.5' fill='#0984e3' opacity='.9'/>
+<text x='32' y='226' font-size='24'>🏆</text>
+<text x='32' y='254' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='15' font-weight='bold' fill='#ffffff' textLength='185' lengthAdjust='spacingAndGlyphs'>Smart India Hackathon</text>
+<text x='32' y='278' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='11.5' fill='#8b949e'>Selected participant</text>
+</g><g id='at4'>
+<rect x='249' y='190' width='221' height='112' rx='12' fill='#11161d' stroke='#fdcb6e' stroke-opacity='.35' stroke-width='1.5'/>
+<rect x='249' y='190' width='221' height='5' rx='2.5' fill='#fdcb6e' opacity='.9'/>
+<text x='265' y='226' font-size='24'>🌟</text>
+<text x='265' y='254' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='15' font-weight='bold' fill='#ffffff' textLength='185' lengthAdjust='spacingAndGlyphs'>GSSoC</text>
+<text x='265' y='278' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='11.5' fill='#8b949e'>Contributor &#8226; Summer of Code</text>
+</g><g id='at5'>
+<rect x='482' y='190' width='221' height='112' rx='12' fill='#11161d' stroke='#a78bfa' stroke-opacity='.35' stroke-width='1.5'/>
+<rect x='482' y='190' width='221' height='5' rx='2.5' fill='#a78bfa' opacity='.9'/>
+<text x='498' y='226' font-size='24'>❄️</text>
+<text x='498' y='254' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='15' font-weight='bold' fill='#ffffff' textLength='185' lengthAdjust='spacingAndGlyphs'>ECWoC</text>
+<text x='498' y='278' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='11.5' fill='#8b949e'>Contributor &#8226; Winter of Code</text>
+</g><text x='16' y='334' font-family='monospace' font-size='15' font-weight='bold' letter-spacing='3' fill='#7dd3fc'>📜 CERTIFICATIONS</text><g id='at6'>
+<rect x='16' y='354' width='163' height='112' rx='12' fill='#11161d' stroke='#FF9900' stroke-opacity='.35' stroke-width='1.5'/>
+<rect x='16' y='354' width='163' height='5' rx='2.5' fill='#FF9900' opacity='.9'/>
+<text x='32' y='390' font-size='24'>☁️</text>
+<text x='32' y='418' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='13' font-weight='bold' fill='#ffffff' textLength='127' lengthAdjust='spacingAndGlyphs'>Cloud Foundations</text>
+<text x='32' y='442' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='11.5' fill='#8b949e'>AWS Academy &#8226; Graduate</text>
+</g><g id='at7'>
+<rect x='191' y='354' width='163' height='112' rx='12' fill='#11161d' stroke='#3776AB' stroke-opacity='.35' stroke-width='1.5'/>
+<rect x='191' y='354' width='163' height='5' rx='2.5' fill='#3776AB' opacity='.9'/>
+<text x='207' y='390' font-size='24'>🐍</text>
+<text x='207' y='418' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='13' font-weight='bold' fill='#ffffff' textLength='127' lengthAdjust='spacingAndGlyphs'>Programming in Python</text>
+<text x='207' y='442' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='11.5' fill='#8b949e'>NPTEL</text>
+</g><g id='at8'>
+<rect x='366' y='354' width='163' height='112' rx='12' fill='#11161d' stroke='#0066CC' stroke-opacity='.35' stroke-width='1.5'/>
+<rect x='366' y='354' width='163' height='5' rx='2.5' fill='#0066CC' opacity='.9'/>
+<text x='382' y='390' font-size='24'>🤖</text>
+<text x='382' y='418' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='13' font-weight='bold' fill='#ffffff' textLength='127' lengthAdjust='spacingAndGlyphs'>Generative AI</text>
+<text x='382' y='442' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='11.5' fill='#8b949e'>Infosys Springboard</text>
+</g><g id='at9'>
+<rect x='541' y='354' width='163' height='112' rx='12' fill='#11161d' stroke='#0066CC' stroke-opacity='.35' stroke-width='1.5'/>
+<rect x='541' y='354' width='163' height='5' rx='2.5' fill='#0066CC' opacity='.9'/>
+<text x='557' y='390' font-size='24'>📊</text>
+<text x='557' y='418' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='13' font-weight='bold' fill='#ffffff' textLength='127' lengthAdjust='spacingAndGlyphs'>Machine Learning</text>
+<text x='557' y='442' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='11.5' fill='#8b949e'>Infosys Springboard</text>
+</g>
+</svg>
