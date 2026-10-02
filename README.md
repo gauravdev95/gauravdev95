@@ -148,65 +148,7 @@ I design and ship full-stack systems end to end, going deeper into **applied AI*
 
 <div align="center">
 
-<!-- OmniRoute-style stat chips for AI/ML Skills -->
-<table>
-<tr>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/LLM_Systems-Expert-161b22?style=for-the-badge&labelColor=6c5ce7" height="60"/>
-<br/><sub>⭐ Expert</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/RAG_&_Retrieval-Expert-161b22?style=for-the-badge&labelColor=22c55e" height="60"/>
-<br/><sub>⭐ Expert</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/Agentic_AI-Advanced-161b22?style=for-the-badge&labelColor=e17055" height="60"/>
-<br/><sub>🔥 Advanced</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/NLP-Advanced-161b22?style=for-the-badge&labelColor=0984e3" height="60"/>
-<br/><sub>🔥 Advanced</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/Vector_DB-Advanced-161b22?style=for-the-badge&labelColor=fdcb6e" height="60"/>
-<br/><sub>🔥 Advanced</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/MLOps-Intermediate-161b22?style=for-the-badge&labelColor=a78bfa" height="60"/>
-<br/><sub>📚 Intermediate</sub>
-</td>
-</tr>
-</table>
-
-<!-- Engineering Skills -->
-<table>
-<tr>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/Backend_/_APIs-Expert-161b22?style=for-the-badge&labelColor=6c5ce7" height="60"/>
-<br/><sub>⭐ Expert</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/DSA_&_Algo-Expert-161b22?style=for-the-badge&labelColor=22c55e" height="60"/>
-<br/><sub>⭐ Expert</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/React_&_Frontend-Advanced-161b22?style=for-the-badge&labelColor=e17055" height="60"/>
-<br/><sub>🔥 Advanced</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/System_Design-Advanced-161b22?style=for-the-badge&labelColor=0984e3" height="60"/>
-<br/><sub>🔥 Advanced</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/Databases-Advanced-161b22?style=for-the-badge&labelColor=fdcb6e" height="60"/>
-<br/><sub>🔥 Advanced</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/Cloud_&_DevOps-Intermediate-161b22?style=for-the-badge&labelColor=a78bfa" height="60"/>
-<br/><sub>📚 Intermediate</sub>
-</td>
-</tr>
-</table>
+<img src="./skills-card.svg" width="720" alt="Skills Depth"/>
 
 </div>
 
