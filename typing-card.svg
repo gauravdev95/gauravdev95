@@ -1,0 +1,38 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='720' height='250' viewBox='0 0 720 250'>
+<defs>
+<linearGradient id='borderGrad' x1='0' y1='0' x2='1' y2='1'>
+<stop offset='0' stop-color='#a78bfa'/><stop offset='.5' stop-color='#f472b6'/><stop offset='1' stop-color='#8b5cf6'/>
+</linearGradient>
+<linearGradient id='glowGrad' x1='0' y1='0' x2='1' y2='1'>
+<stop offset='0' stop-color='#8b5cf6'/><stop offset='1' stop-color='#ec4899'/>
+</linearGradient>
+<linearGradient id='tg1' x1='0' y1='0' x2='1' y2='0'>
+<stop offset='0' stop-color='#c4b5fd'/><stop offset='1' stop-color='#f9a8d4'/>
+</linearGradient>
+<linearGradient id='tg2' x1='0' y1='0' x2='1' y2='0'>
+<stop offset='0' stop-color='#f472b6'/><stop offset='1' stop-color='#fb923c'/>
+</linearGradient>
+<filter id='soft' x='-40%' y='-40%' width='180%' height='180%'><feGaussianBlur stdDeviation='20'/></filter>
+</defs>
+<style>@keyframes fade{0%,90%{opacity:1}95%,100%{opacity:0}}#termbody{animation:fade 16s linear infinite}@keyframes ov0{0%{width:596px}5.62%{width:596px}21.88%{width:0}95%{width:0}95.5%{width:596px}100%{width:596px}}#ov0{animation:ov0 16s steps(57) infinite}@keyframes ov1{0%{width:596px}24.38%{width:596px}40.62%{width:0}95%{width:0}95.5%{width:596px}100%{width:596px}}#ov1{animation:ov1 16s steps(42) infinite}@keyframes ov2{0%{width:596px}43.12%{width:596px}59.38%{width:0}95%{width:0}95.5%{width:596px}100%{width:596px}}#ov2{animation:ov2 16s steps(43) infinite}@keyframes ov3{0%{width:596px}61.88%{width:596px}79.38%{width:0}95%{width:0}95.5%{width:596px}100%{width:596px}}#ov3{animation:ov3 16s steps(44) infinite}@keyframes curpos{0.00%,21.88%{y:78px}24.38%,40.62%{y:114px}43.12%,59.38%{y:150px}61.88%,90.00%{y:186px}100%{y:186px}}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}#cursor{animation:curpos 16s linear infinite,blink 1.06s linear infinite}</style>
+<rect x='14' y='14' width='692' height='222' rx='16' fill='url(#glowGrad)' opacity='.45' filter='url(#soft)'/>
+<rect x='12' y='12' width='696' height='226' rx='14' fill='#0d1117' stroke='url(#borderGrad)' stroke-width='2'/>
+<circle cx='38' cy='36' r='6.5' fill='#ff5f57'/><circle cx='58' cy='36' r='6.5' fill='#febc2e'/><circle cx='78' cy='36' r='6.5' fill='#28c840'/>
+<text x='104' y='41' font-family='monospace' font-size='14' fill='#8b949e'>gaurav@dev — ~/profile</text>
+<line x1='12' y1='58' x2='708' y2='58' stroke='#21262d' stroke-width='1'/>
+<g id='termbody'>
+<text x='38' y='96' font-family='monospace' font-size='19' fill='#22d3ee' >❯</text>
+<text x='64' y='96' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='19' fill='url(#tg1)' textLength='596' lengthAdjust='spacingAndGlyphs' >RAG Pipelines • Multi-Agent Systems • Production Backends</text>
+<rect id='ov0' x='64' y='75' width='596' height='27' fill='#0d1117'/>
+<text x='38' y='132' font-family='monospace' font-size='19' fill='#22d3ee' >❯</text>
+<text x='64' y='132' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='19' fill='url(#tg1)' textLength='596' lengthAdjust='spacingAndGlyphs' >MERN • FastAPI • LangGraph • Vector Search</text>
+<rect id='ov1' x='64' y='111' width='596' height='27' fill='#0d1117'/>
+<text x='38' y='168' font-family='monospace' font-size='19' fill='#22d3ee' >❯</text>
+<text x='64' y='168' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='19' fill='url(#tg1)' textLength='596' lengthAdjust='spacingAndGlyphs' >800+ DSA Solved • CodeChef 4★ • Open Source</text>
+<rect id='ov2' x='64' y='147' width='596' height='27' fill='#0d1117'/>
+<text x='38' y='204' font-family='monospace' font-size='19' fill='#f472b6' font-weight='bold'>➜</text>
+<text x='64' y='204' font-family='ui-monospace,Menlo,Consolas,monospace' font-size='19' fill='url(#tg2)' textLength='596' lengthAdjust='spacingAndGlyphs' font-weight='bold'>From Idea to Deploy — I Ship the Whole Thing</text>
+<rect id='ov3' x='64' y='183' width='596' height='27' fill='#0d1117'/>
+<rect id='cursor' x='668' y='78' width='11' height='22' rx='2' fill='#a78bfa'/>
+</g>
+</svg>
