@@ -6,9 +6,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/gauravdev95">
+  <a href="https://threed-portfolio-msx7.onrender.com/">
     <img
-      src="./profile_photo_animated.gif"
+      src="./profile_photo_glow.png"
       width="240"
       height="240"
       alt="Gaurav Yadav"
