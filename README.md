@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/gauravdev95">
     <img
-      src="./profile_photo_round.png"
+      src="./profile_photo_animated.gif"
       width="240"
       height="240"
       alt="Gaurav Yadav"
