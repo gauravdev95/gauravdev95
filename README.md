@@ -36,19 +36,19 @@
 <br/><br/>
 
 <!-- Quick Links -->
-<a href="https://threed-portfolio-msx7.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0B0E14?style=for-the-badge&logo=vercel&logoColor=7C3AED&labelColor=161b22" height="32"/></a>
-<a href="https://www.linkedin.com/in/gauravyadav95/"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" height="32"/></a>
-<a href="mailto:gauravyddev@gmail.com"><img src="https://img.shields.io/badge/Email-0B0E14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22" height="32"/></a>
-<a href="https://leetcode.com/gauravdev95/"><img src="https://img.shields.io/badge/LeetCode-0B0E14?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=161b22" height="32"/></a>
-<a href="https://github.com/gauravdev95"><img src="https://img.shields.io/badge/GitHub-0B0E14?style=for-the-badge&logo=github&logoColor=e9edf3&labelColor=161b22" height="32"/></a>
+<a href="https://threed-portfolio-msx7.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" height="38" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/gauravyadav95/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn"/></a>
+<a href="mailto:gauravyddev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email"/></a>
+<a href="https://leetcode.com/gauravdev95/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="38" alt="LeetCode"/></a>
+<a href="https://github.com/gauravdev95"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub"/></a>
 
 <br/><br/>
 
-<!-- Animated Stats -->
-<img src="https://komarev.com/ghpvc/?username=gauravdev95&label=Profile+Views&color=a78bfa&style=flat-square&labelColor=161b22" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/gauravdev95?style=flat-square&color=22D3EE&labelColor=0B0E14&label=FOLLOWERS" height="24"/>
-<img src="https://img.shields.io/github/stars/gauravdev95?style=flat-square&color=F472B6&labelColor=0B0E14&label=TOTAL+STARS" height="24"/>
-<img src="https://img.shields.io/badge/STATUS-Open_to_SWE-0B0E14?style=flat-square&labelColor=34D399" height="24"/>
+<!-- Profile Stats -->
+<img src="https://komarev.com/ghpvc/?username=gauravdev95&label=Profile+Views&color=a78bfa&style=flat-square&labelColor=161b22" alt="Profile Views" height="28"/>
+<img src="https://img.shields.io/github/followers/gauravdev95?style=flat-square&color=22D3EE&labelColor=0B0E14&label=FOLLOWERS" height="28"/>
+<img src="https://img.shields.io/github/stars/gauravdev95?style=flat-square&color=F472B6&labelColor=0B0E14&label=TOTAL+STARS" height="28"/>
+<img src="https://img.shields.io/badge/STATUS-Open_to_SWE-0B0E14?style=flat-square&labelColor=34D399" height="28"/>
 
 </div>
 
