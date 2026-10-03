@@ -69,7 +69,7 @@ Former **AI/ML Intern @ Infosys Springboard** 🚀
 
 I design and ship full-stack systems end to end, going deeper into **applied AI** — retrieval pipelines, multi-agent orchestration, and LLM-powered products through projects like **CORTEX** and **DevRadar**.
 
-**My approach:** Clean architecture first, then speed. Same instinct from solving **800+ DSA problems** to a **CodeChef 4★** rating: know the cost before you write the line.
+**My approach:** Clean architecture first, then speed. Same instinct from solving **1000+ DSA problems** with a **659-day LeetCode streak** to a **CodeChef 4★** rating: know the cost before you write the line.
 
 **Open Source:** Active through **GSSoC** and **ECWoC** — real bug fixes, docs, and shipped features.
 
