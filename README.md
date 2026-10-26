@@ -39,7 +39,7 @@
 <a href="https://threed-portfolio-msx7.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" height="38" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/gauravyadav95/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn"/></a>
 <a href="mailto:gauravyddev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email"/></a>
-<a href="https://leetcode.com/gauravdev95/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="38" alt="LeetCode"/></a>
+<a href="https://leetcode.com/gauravDevX/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="38" alt="LeetCode"/></a>
 <a href="https://github.com/gauravdev95"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub"/></a>
 
 <br/><br/>
@@ -323,7 +323,7 @@ Completed IBM's structured full stack program, building applications on enterpri
 
 ### 🎮 Competitive Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-0B0E14?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=161b22)](https://leetcode.com/gauravdev95/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0B0E14?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=161b22)](https://leetcode.com/gauravDevX/)
 [![CodeChef](https://img.shields.io/badge/CodeChef_4★-0B0E14?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=161b22)](https://www.codechef.com/users/gauravdev95)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-0B0E14?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=161b22)](https://www.geeksforgeeks.org/user/gauravyddev/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-0B0E14?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=161b22)](https://www.hackerrank.com/gauravyddev)
@@ -387,7 +387,7 @@ Completed IBM's structured full stack program, building applications on enterpri
 <a href="https://www.linkedin.com/in/gauravyadav95/"><img src="https://img.shields.io/badge/gauravyadav95-0B0E14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" height="38"/></a>
 <a href="https://github.com/gauravdev95"><img src="https://img.shields.io/badge/gauravdev95-0B0E14?style=for-the-badge&logo=github&logoColor=e9edf3&labelColor=161b22" height="38"/></a>
 <a href="https://threed-portfolio-msx7.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0B0E14?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=7C3AED" height="38"/></a>
-<a href="https://leetcode.com/gauravdev95/"><img src="https://img.shields.io/badge/LeetCode-0B0E14?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=161b22" height="38"/></a>
+<a href="https://leetcode.com/gauravDevX/"><img src="https://img.shields.io/badge/LeetCode-0B0E14?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=161b22" height="38"/></a>
 
 <br/><br/>
 
