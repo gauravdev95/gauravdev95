@@ -1,410 +1,144 @@
-<div align="center">
+# Gaurav Yadav
 
-<!-- ═══════════════ SUPER ANIMATED OMNIROUTE-STYLE HEADER ═══════════════ -->
+**Software Engineer | Backend & Full-Stack Developer | AI/ML Engineer**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e54d5e,30:8b5cf6,60:a78bfa,100:0b0e14&height=280&section=header&text=GAURAV%20YADAV&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Full%20Stack&descAlignY=58&descSize=20" width="100%"/>
+Final-year B.Tech Computer Science student at Hindustan College of Science and Technology, Mathura, graduating in 2027. I build backend systems and full-stack applications, and I add practical AI to them — APIs, databases, background jobs, tests and a working interface, not demos for their own sake.
 
+Open to fresher Software Engineer, Backend Developer, Full-Stack Developer and AI/ML Engineer roles, and to a Jan–Jun 2027 internship. Open to relocation to Noida, Bengaluru, Pune, Hyderabad or Gurugram, and to on-site, hybrid or remote work.
 
-<p align="center">
-  <a href="https://threed-portfolio-msx7.onrender.com/">
-    <img
-      src="./profile_photo_glow.png"
-      width="240"
-      height="240"
-      alt="Gaurav Yadav"
-      style="
-        border-radius: 50%;
-        border: 5px solid #a78bfa;
-        box-shadow:
-          0 0 30px rgba(167, 139, 250, 0.8),
-          0 0 70px rgba(229, 77, 94, 0.5);
-      "
-    />
-  </a>
-</p>
-
-<br/>
-
-<h1 style="font-size: 48px; margin: 20px 0 10px 0; color: #e9edf3;">
-  Hi, I'm <span style="background: linear-gradient(90deg, #e54d5e, #f472b6, #a78bfa); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">GAURAV YADAV</span> 👋
-</h1>
-
-<h3 style="color: #a1a1aa; font-weight: 500; margin-bottom: 24px;">Software Engineer • AI Systems • Full Stack Developer</h3>
-
-<!-- Animated typing effect -->
-<img src="./typing-card.svg" alt="Typing SVG" />
-<br/><br/>
-
-<!-- Quick Links -->
-<a href="https://threed-portfolio-msx7.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" height="38" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/gauravyadav95/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn"/></a>
-<a href="mailto:gauravyddev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email"/></a>
-<a href="https://leetcode.com/gauravDevX/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="38" alt="LeetCode"/></a>
-<a href="https://github.com/gauravdev95"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub"/></a>
-
-<br/><br/>
-
-<!-- Profile Stats -->
-<img src="https://komarev.com/ghpvc/?username=gauravdev95&label=Profile+Views&color=a78bfa&style=flat-square&labelColor=161b22" alt="Profile Views" height="28"/>
-<img src="https://img.shields.io/github/followers/gauravdev95?style=flat-square&color=22D3EE&labelColor=0B0E14&label=FOLLOWERS" height="28"/>
-<img src="https://img.shields.io/github/stars/gauravdev95?style=flat-square&color=F472B6&labelColor=0B0E14&label=TOTAL+STARS" height="28"/>
-<img src="https://img.shields.io/badge/STATUS-Open_to_SWE-0B0E14?style=flat-square&labelColor=34D399" height="28"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e54d5e,50:8b5cf6,100:a78bfa&height=4&section=header" width="100%"/>
+- Portfolio: https://threed-portfolio-msx7.onrender.com
+- LinkedIn: https://www.linkedin.com/in/gauravyadav95
+- GitHub: https://github.com/gauravdev95
+- LeetCode: https://leetcode.com/gauravDevX
 
 ---
 
-## 🎯 About Me
+## About Me
+
+I design and ship full-stack systems end to end, with a focus on applied AI: retrieval pipelines, knowledge graphs, multi-agent workflows and LLM-powered products.
+
+My approach is clean architecture first, then speed: know the cost before you write the line, test the change, and document how to run it.
+
+Open source: active through GirlScript Summer of Code (GSSoC) and ECWoC — bug fixes, documentation and shipped features in React.js and Node.js projects, through pull requests and code reviews.
 
-<div align="center">
+## Technical Expertise
 
-> ### 💡 *"I build things that ship — not repos that sit."*
+**Backend Engineering**
+Python and FastAPI for REST APIs, JWT authentication, PostgreSQL, Redis and Celery for background work, and Pytest for testing. Node.js and Express for API services, with MongoDB and PostgreSQL data layers.
 
-**CSE undergrad** at *Hindustan College of Science and Technology* (2023–2027)  
-Former **AI/ML Intern @ Infosys Springboard** 🚀
+**Full-Stack Engineering**
+React, Node.js and Express, Tailwind CSS and MongoDB (MERN), with TypeScript in larger frontends. I take a feature from database to API to interface, with consistent error handling and role-based access where a product needs it.
 
-I design and ship full-stack systems end to end, going deeper into **applied AI** — retrieval pipelines, multi-agent orchestration, and LLM-powered products through projects like **CORTEX** and **DevRadar**.
+**AI/ML Engineering**
+LLMs and retrieval-augmented generation (RAG), knowledge graphs with Neo4j, embeddings and vector search with pgvector, and ML models with scikit-learn. I work on evaluation and fallback paths, not just on calling a model: if a provider fails, the system should degrade clearly instead of blocking the user.
 
-**My approach:** Clean architecture first, then speed. Same instinct from solving **1000+ DSA problems** with a **659-day LeetCode streak** to a **CodeChef 4★** rating: know the cost before you write the line.
+## Technology Stack
 
-**Open Source:** Active through **GSSoC** and **ECWoC** — real bug fixes, docs, and shipped features.
+### Proficient — used in shipped projects, with tests or a working demo
+- Programming Languages: Python, JavaScript, TypeScript, C++
+- Backend: FastAPI, Node.js, Express.js, REST APIs, JWT Authentication
+- Frontend: React, Tailwind CSS, HTML/CSS (via React/Tailwind work — confirm before testing claims)
+- Databases: PostgreSQL, MongoDB, Redis, SQL
+- AI/ML: Generative AI, Large Language Models (LLM), Retrieval-Augmented Generation (RAG), Prompt Engineering, LangGraph, Natural Language Processing (NLP), Machine Learning, Scikit-Learn, Neo4j, pgvector
+- Developer Tools: Git, GitHub, Docker, Pytest
 
-<br/>
+### Working Knowledge — used in projects, not claimed as expert depth
+- Frontend/Full-Stack: Next.js, Three.js (portfolio only)
+- Databases/Infrastructure: MySQL, Nginx, Linux
+- Cloud & DevOps: Amazon Web Services (AWS), Render, Vercel
+- AI/ML: TensorFlow, Sentence Transformers, FAISS, Word Embeddings, AI Agents
 
-<img src="https://img.shields.io/badge/🤖_Open_to-Full--Time_SWE-0B0E14?style=flat-square&labelColor=34D399" height="28"/>
-<img src="https://img.shields.io/badge/💻_Open_to-Backend-0B0E14?style=flat-square&labelColor=34D399" height="28"/>
-<img src="https://img.shields.io/badge/🧠_Open_to-AI/ML-0B0E14?style=flat-square&labelColor=34D399" height="28"/>
-<img src="https://img.shields.io/badge/🔥_Active-Open_Source-0B0E14?style=flat-square&labelColor=34D399" height="28"/>
+### Currently Learning — explicitly learning, not proficient
+- LangGraph multi-agent memory systems
+- Distributed systems: CRDTs, event sourcing
+- System design at scale, Kubernetes
+- Mixture-of-Experts architectures, WebAssembly for browser inference, real-time AI with streaming LLM over SSE
 
-</div>
+Note on badges removed from the old README: Java, PyTorch, OpenCV, CrewAI, Claude and similar badge items are NOT listed as proficient above, because the 30 Oct repo inspection did not evidence them as a primary stack in the inspected repos. If you have a repo that evidences one of them as a main stack, add it to Working Knowledge with that repo linked — do not add it as Proficient on badge presence alone.
 
----
+## Featured Projects
 
-## 📊 GitHub Stats
+### 1. GroundTruth AI — Software / Backend
+AI-verified hiring platform: candidate skills are derived only from verified evidence — GitHub, coding platforms, certificates or AI interviews — never typed by the user.
+FastAPI backend, PostgreSQL + pgvector matching, Redis + Celery background jobs, 259 backend unit tests (as claimed in repo README; integration suite not run against the two newest migrations).
+Repo: https://github.com/gauravdev95/GroundTruth-AI-Recruiter-Intelligence
+Status: Locally Dockerised and verified, not cloud-deployed. No live demo link is claimed for this project.
 
-<div align="center">
+### 2. AI Career Intelligence — AI/ML and Full-Stack
+Full-stack platform that converts raw job descriptions into a live, queryable knowledge graph, using LLM extraction with an automatic fallback so provider failures never block a page.
+React, Node.js/Express, Neo4j (repo description) / PostgreSQL + pgvector (repo README — see note in the optimisation plan, reconcile before quoting one stack as settled), Groq/Gemini LLM provider (same reconciliation note applies).
+Repo: https://github.com/gauravdev95/AI-powered-career-intelligence-platform
+Live demo: https://ai-powered-career-intelligence-platform-y3cn.onrender.com
 
-<!-- Stats + Streak — equal height so they line up -->
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=gauravdev95&show_icons=true&theme=transparent&hide_border=true&bg_color=0b0e14&title_color=a78bfa&icon_color=e54d5e&text_color=e9edf3&border_radius=16&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdev95&theme=transparent&background=0b0e14&border=0&stroke=a78bfa&ring=a855f7&fire=e17055&currStreakLabel=e9edf3&sideNums=e9edf3&sideLabels=e9edf3&dates=a1a1aa" alt="GitHub Streak" />
+### 3. SmartCare Platform — Full-Stack
+AI-powered healthcare platform: medical-report analysis, health-risk prediction, doctor recommendations and WebRTC video consultations. MERN stack with two FastAPI services.
+Repo: https://github.com/gauravdev95/SmartCare-Platform
+Note: No live demo link is claimed here until the Render service URLs in the repo are verified as currently serving.
 
-<br/><br/>
+### 4. TalentForge / Automated Recruitment System — Full-Stack
+End-to-end hiring platform with automated coding assessments, ML-based candidate scoring and recruiter workflow automation. MERN + FastAPI + Judge0.
+Repo: https://github.com/gauravdev95/Automated-Recruitment-System
+Demo shown in repo README: talentforge-frontend.onrender.com (live status not verified in the 30 Oct check — verify before presenting it as currently live) and a Canva walkthrough linked in the repo README.
 
-<!-- Contribution activity graph -->
-<img width="100%" src="https://github-readme-activity-graph-fawn.vercel.app/graph?username=gauravdev95&bg_color=0b0e14&color=a78bfa&line=a855f7&point=7ee787&area=true&area_color=1E1035&hide_border=true&height=280&border_radius=16" alt="Contribution Graph" />
+### 5. CORTEX — Software / Backend and AI Agents
+Self-healing infrastructure / multi-agent orchestration platform: FastAPI backend, React + TypeScript dashboard, WebSocket streams, with a local fallback memory/reasoning path so it runs with no external services required.
+Repo: https://github.com/gauravdev95/CORTEX
+Status: Simulation and observability engine / proof of concept, as described in its own README overview. Do not describe it as enterprise production software.
 
-<br/><br/>
+### 6. Homophily-Aware GNN Fraud Ring Detection — AI/ML Research
+Detecting fraud rings in Bitcoin transaction networks using homophily-aware Graph Neural Networks, built on the Elliptic++ dataset.
+Repo: https://github.com/gauravdev95/Homophily-Aware-GNN-Fraud-Ring-Detection
+Status, honestly stated: Exploratory data analysis and graph construction with temporal splits are complete (203,769 nodes, 234,355 directed edges, 49 weakly connected components, train steps 1–34 / val 35–41 / test 42–49). GNN baselines and evaluation (Phase 3, Steps 4–6) are NOT started. Do not present this as a finished GNN model.
 
-<!-- Language analytics -->
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravdev95&theme=github_dark" alt="Top Languages by Repo" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravdev95&theme=github_dark" alt="Most Commit Language" />
+## Professional Experience
 
-<br/><br/>
+- **AI/ML Intern @ Infosys Springboard — Jun 2026 – Aug 2026** (LinkedIn dates; GitHub old README said Apr 2026 — see consistency note in the optimisation plan, certificate decides)
+  Borrower repayment data pipelines: cleaning, feature engineering and validation over 10,000+ records, and structured experiment/evaluation cycles on repayment-prediction models, in Agile sprints with peer code reviews.
+- **Full Stack Trainee @ CodSoft — Dec 2025 – Mar 2026**
+  Two full-stack MERN applications: clean component architecture, RESTful API design, optimised MongoDB schemas with Mongoose indexing, JWT authentication with role-based access control.
+- **Full Stack Trainee @ IBM SkillsBuild — Jun 2025 – Aug 2025**
+  Training programme via IBM SkillsBuild — not an IBM employment role. Three full-stack applications with React, Tailwind CSS, Node.js, Express.js and MongoDB, with REST API design and deployment.
+- **Open Source Contributor @ GirlScript Summer of Code — Oct 2024 – Jan 2025**
+  Bug fixes, documentation and small features in React.js and Node.js open-source projects, through pull requests and code reviews (GSSoC & ECWoC).
 
-<!-- Productive time (IST) -->
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gauravdev95&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+## Verified Achievements
 
-</div>
+Only items with a date and a source are listed here as verified. Everything else is in the “To verify” list below, not in this section.
 
----
+- **WikiThon 2026 — Top 10** (AI Valley, May 2026) — AI Career Intelligence / DevRadar platform. Note: the old GitHub README and LinkedIn description previously disagreed on Top 10 vs Top 20; Top 10 is the version you confirmed on 7 Oct 2026.
+- **Smart India Hackathon (SIH) — Finalist, Sep 2025** — TalentForge hiring platform, Backend Developer (MERN), with FastAPI + Sentence Transformers resume matching and Judge0 coding-test evaluation.
+- **Byte Master 2024 — Rank 6 among 1000+ participants** — Hindustan College, Byte Club coding contest. Date on certificate to be unified across profiles (LinkedIn showed Mar 2024 in Certifications and Sep 2024 in Honors — check the certificate).
+- **LeetCode — handle gauravDevX, link fixed 26 Oct 2026 in 3 places in this README repo.**
+  As per screenshots you supplied on 7 Oct 2026 (not re-verified live in the 30 Oct check): 864 solved (Easy 266, Medium 445, Hard 153), 33 badges, most recent badge “500 Days Badge”, 535 submissions in the past year, 343 active days.
+  Streak: DO NOT publish a single streak number from this README until you clarify it — your records contain three different figures (panel max streak 48 in the 7 Oct screenshots, max 53-day streak in an earlier verified record, and a 645 flame count that is not the same metric as max streak, plus the old README claim of 659 days). See the optimisation plan, Phase 8.
 
-## 🏆 Trophy Collection
+### To verify — do NOT publish as verified until you confirm
+- CodeChef 4★ rating: no CodeChef profile/rating evidence was verified in the 30 Oct check. Provide your CodeChef profile URL and current rating, or remove the claim.
+- GeeksforGeeks, HackerRank, Codeforces profiles: no usernames/URLs were verified in text. Add them only with exact profile URLs you confirm.
+- Contest rating: no contest rating was verified. Do not add one without a dated screenshot/profile link.
+- Any “1000+ DSA problems” total: do not use it as a verified total. The 7 Oct screenshots support 864 LeetCode solved; a 1000+ total across platforms would need a dated breakdown by platform.
 
-<div align="center">
+## GitHub Statistics
 
-<img src="./trophy-card.svg" width="720" alt="Trophy Collection"/>
+No SVG stats/streak/trophy numbers are claimed here, because those numbers were not readable in text and were not re-verified live on 30 Oct 2026. Use the Repositories tab and the pinned projects below as the evidence, not a stats card.
 
-</div>
+- Profile README repo: 61 commits, 1 star, created 11 Jun 2026 (verified 30 Oct 2026)
+- GroundTruth AI repo: 25 commits, 0 stars, MIT license (verified 30 Oct 2026)
+- Homophily GNN repo: 10 commits, 1 release, 0 stars (verified 30 Oct 2026)
+- Other repo counts, followers/following and contribution totals: see your live GitHub profile — do not copy a number from an SVG card into text without checking it live first.
 
----
+## Currently Learning
 
-## 🛠️ Tech Stack
+- LangGraph and multi-agent memory systems
+- Distributed systems: CRDTs, event sourcing
+- System design at scale, Kubernetes
+- Mixture-of-Experts architectures, WebAssembly for browser inference, real-time AI with streaming LLM over SSE
 
-<div align="center">
+## Contact
 
-### 🔥 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,react,nextjs,tailwind,threejs,nodejs,express,fastapi&perline=12&theme=dark" />
+- Portfolio: https://threed-portfolio-msx7.onrender.com
+- LinkedIn: https://www.linkedin.com/in/gauravyadav95
+- GitHub: https://github.com/gauravdev95
+- LeetCode: https://leetcode.com/gauravDevX
 
-### 🗄️ Databases & Infrastructure
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,docker,aws,linux,git,github,nginx&perline=10&theme=dark" />
-
-### 🤖 AI/ML Stack
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&perline=4&theme=dark" />
-
-<img src="https://img.shields.io/badge/LangChain-0B0E14?style=flat-square&logo=langchain&labelColor=0D1117" height="28"/>
-<img src="https://img.shields.io/badge/LangGraph-0B0E14?style=flat-square&logo=langgraph&labelColor=0D1117" height="28"/>
-<img src="https://img.shields.io/badge/CrewAI-0B0E14?style=flat-square&logo=crewai&labelColor=0D1117" height="28"/>
-<img src="https://img.shields.io/badge/FAISS-0B0E14?style=flat-square&logo=meta&labelColor=0D1117" height="28"/>
-<img src="https://img.shields.io/badge/spaCy-0B0E14?style=flat-square&logo=spacy&labelColor=0D1117" height="28"/>
-<img src="https://img.shields.io/badge/Transformers-0B0E14?style=flat-square&logo=huggingface&labelColor=0D1117" height="28"/>
-
-</div>
-
----
-
-## 💻 Skills Depth
-
-<div align="center">
-
-<img src="./skills-card.svg" width="720" alt="Skills Depth"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🩺 SmartCare — Intelligent Healthcare Platform
-
-<div align="center">
-
-**Production-grade healthcare platform** with RAG-powered symptom checker, appointment scheduling, and clinical decision support.
-
-<img src="https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react" height="24"/>
-<img src="https://img.shields.io/badge/Node.js-0B0E14?style=flat-square&logo=nodedotjs" height="24"/>
-<img src="https://img.shields.io/badge/Express-0B0E14?style=flat-square&logo=express" height="24"/>
-<img src="https://img.shields.io/badge/MongoDB-0B0E14?style=flat-square&logo=mongodb" height="24"/>
-<img src="https://img.shields.io/badge/FastAPI-0B0E14?style=flat-square&logo=fastapi" height="24"/>
-<img src="https://img.shields.io/badge/LangChain-0B0E14?style=flat-square&logo=langchain" height="24"/>
-<img src="https://img.shields.io/badge/Redis-0B0E14?style=flat-square&logo=redis" height="24"/>
-
-| | |
-|:--|:--|
-| **🏗️ Architecture** | Microservice-inspired monolith with AI inference module scaling independently |
-| **⚡ Performance** | Sub-200ms API responses via Redis caching + database indexing |
-| **✨ Highlights** | RAG Symptom Checker • Priority-queue Appointment Optimization • WebSocket Live Notifications |
-
-<a href="https://github.com/gauravdev95/SmartCare-Platform"><img src="https://img.shields.io/badge/🚀_VIEW_REPOSITORY-0B0E14?style=flat-square&labelColor=7C3AED" height="32"/></a>
-
-</div>
-
----
-
-### 🛰️ DevRadar — AI-Powered Developer Discovery Engine
-
-<div align="center">
-
-**Developer discovery and analytics engine** that aggregates GitHub activity, contribution patterns, and technical signals into structured, searchable intelligence.
-
-<img src="https://img.shields.io/badge/TypeScript-0B0E14?style=flat-square&logo=typescript" height="24"/>
-<img src="https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react" height="24"/>
-<img src="https://img.shields.io/badge/FastAPI-0B0E14?style=flat-square&logo=fastapi" height="24"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0B0E14?style=flat-square&logo=postgresql" height="24"/>
-<img src="https://img.shields.io/badge/FAISS-0B0E14?style=flat-square&logo=meta" height="24"/>
-<img src="https://img.shields.io/badge/LangChain-0B0E14?style=flat-square&logo=langchain" height="24"/>
-
-| | |
-|:--|:--|
-| **🏗️ Architecture** | Two-stage pipeline — Sentence Transformers embeddings + BM25 hybrid retrieval |
-| **⚡ Performance** | Sub-500ms semantic retrieval across FAISS index |
-| **✨ Highlights** | Developer Profile Ranking • Recruiter-Readable Talent Summaries |
-
-<a href="https://github.com/gauravdev95/dev-radar"><img src="https://img.shields.io/badge/🚀_VIEW_REPOSITORY-0B0E14?style=flat-square&labelColor=8B5CF6" height="32"/></a>
-
-</div>
-
----
-
-### 🧬 CORTEX — Multi-Agent AI Orchestration Framework
-
-<div align="center">
-
-**Production-hardened orchestration framework** for long-horizon reasoning with supervisor agent routing subtasks to specialized sub-agents with automated recovery.
-
-<img src="https://img.shields.io/badge/Python-0B0E14?style=flat-square&logo=python" height="24"/>
-<img src="https://img.shields.io/badge/LangGraph-0B0E14?style=flat-square&logo=langgraph" height="24"/>
-<img src="https://img.shields.io/badge/CrewAI-0B0E14?style=flat-square&logo=crewai" height="24"/>
-<img src="https://img.shields.io/badge/Redis-0B0E14?style=flat-square&logo=redis" height="24"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0B0E14?style=flat-square&logo=postgresql" height="24"/>
-<img src="https://img.shields.io/badge/Claude-0B0E14?style=flat-square&logo=anthropic" height="24"/>
-
-| | |
-|:--|:--|
-| **🏗️ Architecture** | Hierarchical agents with distributed state in Redis + PostgreSQL checkpoints |
-| **🛡️ Reliability** | Auto-recovery on failure • Fallback LLM providers • Progress survives outages |
-| **✨ Highlights** | Persistent Context • Tool Sandboxing • Full Audit Logs |
-
-<a href="https://github.com/gauravdev95/CORTEX"><img src="https://img.shields.io/badge/🚀_VIEW_REPOSITORY-0B0E14?style=flat-square&labelColor=22D3EE" height="32"/></a>
-
-</div>
-
----
-
-### 🧑‍💼 TalentForge — AI Recruitment Intelligence Platform
-
-<div align="center">
-
-🏆 **Smart India Hackathon** Project — Modernizes hiring with NLP resume parsing, JD matching, and conversational AI interviewer.
-
-<img src="https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react" height="24"/>
-<img src="https://img.shields.io/badge/Node.js-0B0E14?style=flat-square&logo=nodedotjs" height="24"/>
-<img src="https://img.shields.io/badge/MongoDB-0B0E14?style=flat-square&logo=mongodb" height="24"/>
-<img src="https://img.shields.io/badge/FastAPI-0B0E14?style=flat-square&logo=fastapi" height="24"/>
-<img src="https://img.shields.io/badge/spaCy-0B0E14?style=flat-square&logo=spacy" height="24"/>
-
-| | |
-|:--|:--|
-| **🏗️ Architecture** | Three chained models — NER Extractor + Bi-encoder + Conversational Agent |
-| **⚡ Performance** | 85%+ accuracy on JD-resume matching • Sub-second screening per candidate |
-| **🛡️ Security** | PII Encryption • RBAC across HR/Interviewer/Admin roles |
-
-<a href="https://github.com/gauravdev95/talentforge"><img src="https://img.shields.io/badge/🚀_VIEW_REPOSITORY-0B0E14?style=flat-square&labelColor=F472B6" height="32"/></a>
-
-</div>
-
----
-
-## 💼 Work Experience
-
-### 🤖 AI/ML Intern @ Infosys Springboard
-**📅 Apr 2026 — Aug 2026**
-
-Applied AI research and delivery inside Infosys Springboard's structured program, building intelligent automation on LLMs, retrieval, and agentic workflows.
-
-- ✅ Designed and deployed end-to-end **RAG pipelines** covering document ingestion, vector indexing, and LLM query resolution
-- ✅ Built **multi-agent orchestration** workflows in LangChain and LangGraph for automated document analysis
-- ✅ Shipped **FastAPI inference microservices** exposing AI capabilities as production REST endpoints
-- ✅ Applied chain-of-thought, few-shot, and structured-output prompting for reliable model responses
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-0B0E14?style=flat-square&logo=python" height="22"/>
-<img src="https://img.shields.io/badge/LangChain-0B0E14?style=flat-square&logo=langchain" height="22"/>
-<img src="https://img.shields.io/badge/FastAPI-0B0E14?style=flat-square&logo=fastapi" height="22"/>
-<img src="https://img.shields.io/badge/RAG-0B0E14?style=flat-square&labelColor=7C3AED" height="22"/>
-</div>
-
----
-
-### 💻 Full Stack Developer Intern @ CodSoft
-**📅 Dec 2025 — Mar 2026**
-
-Shipped production MERN applications across the full lifecycle, from requirements through deployment.
-
-- ✅ Built responsive, accessible interfaces in React and Tailwind with performance and UX as the constraint
-- ✅ Designed **RESTful APIs** in Node.js and Express against MongoDB
-- ✅ Integrated third-party APIs and implemented JWT auth with role-based authorization
-- ✅ Deployed to cloud infrastructure with CI/CD and environment-based configuration
-
-<div align="center">
-<img src="https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react" height="22"/>
-<img src="https://img.shields.io/badge/Node.js-0B0E14?style=flat-square&logo=nodedotjs" height="22"/>
-<img src="https://img.shields.io/badge/MongoDB-0B0E14?style=flat-square&logo=mongodb" height="22"/>
-<img src="https://img.shields.io/badge/Tailwind-0B0E14?style=flat-square&logo=tailwindcss" height="22"/>
-</div>
-
----
-
-### 🌐 Full Stack Trainee @ IBM SkillsBuild
-**📅 Jun 2025 — Aug 2025**
-
-Completed IBM's structured full stack program, building applications on enterprise architecture patterns and cloud-native tooling.
-
-- ✅ Covered frontend frameworks, backend APIs, and cloud deployment as one continuous pipeline
-- ✅ Followed IBM's enterprise practices for modular architecture and documentation standards
-- ✅ Worked with IBM Cloud services and toolchain integrations for collaborative delivery
-
-<div align="center">
-<img src="https://img.shields.io/badge/IBM_Cloud-0B0E14?style=flat-square&logo=ibmcloud" height="22"/>
-<img src="https://img.shields.io/badge/JavaScript-0B0E14?style=flat-square&logo=javascript" height="22"/>
-<img src="https://img.shields.io/badge/Docker-0B0E14?style=flat-square&logo=docker" height="22"/>
-</div>
-
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-<img src="./achievements-card.svg" width="720" alt="Achievements & Certifications"/>
-
-### 🎮 Competitive Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-0B0E14?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=161b22)](https://leetcode.com/gauravDevX/)
-[![CodeChef](https://img.shields.io/badge/CodeChef_4★-0B0E14?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=161b22)](https://www.codechef.com/users/gauravdev95)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-0B0E14?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=161b22)](https://www.geeksforgeeks.org/user/gauravyddev/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0B0E14?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=161b22)](https://www.hackerrank.com/gauravyddev)
-[![Codeforces](https://img.shields.io/badge/Codeforces-0B0E14?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=161b22)](https://codeforces.com/profile/gauravdev95)
-
-</div>
-
----
-
-## 📈 Language Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdev95&layout=donut-vertical&theme=transparent&hide_border=true&bg_color=0b0e14&title_color=a78bfa&text_color=e9edf3&border_radius=16&card_width=420&langs_count=10" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🎯 Currently Building & Learning
-
-<div align="center">
-
-<!-- OmniRoute-style stat chips for Current Focus -->
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🧠_LEARNING-Agentic_Architectures-161b22?style=for-the-badge&labelColor=6c5ce7" height="80"/>
-<br/><sub>LangGraph • Multi-agent memory systems<br/>Distributed systems • CRDTs • Event sourcing<br/>System design at scale • Kubernetes</sub>
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🚀_BUILDING-CORTEX_&_AI_Tools-161b22?style=for-the-badge&labelColor=22c55e" height="80"/>
-<br/><sub>Multi-agent orchestration with self-healing<br/>AI developer tooling removing friction<br/>LangChain ecosystem contributions</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🔭_EXPLORING-Advanced_AI-161b22?style=for-the-badge&labelColor=e17055" height="80"/>
-<br/><sub>Mixture-of-Experts architectures<br/>WebAssembly for browser inference<br/>Real-time AI with streaming LLM over SSE</sub>
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/💼_OPEN_TO-SWE_Roles-161b22?style=for-the-badge&labelColor=0984e3" height="80"/>
-<br/><sub>Full-time backend, full stack, AI/ML<br/>Research collaboration in generative AI<br/>Open-source mentorship & code review</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-### ✨ Let's Build Something That Ships ✨
-
-<br/>
-
-<a href="mailto:gauravyddev@gmail.com"><img src="https://img.shields.io/badge/gauravyddev@gmail.com-0B0E14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22" height="38"/></a>
-<a href="https://www.linkedin.com/in/gauravyadav95/"><img src="https://img.shields.io/badge/gauravyadav95-0B0E14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" height="38"/></a>
-<a href="https://github.com/gauravdev95"><img src="https://img.shields.io/badge/gauravdev95-0B0E14?style=for-the-badge&logo=github&logoColor=e9edf3&labelColor=161b22" height="38"/></a>
-<a href="https://threed-portfolio-msx7.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0B0E14?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=7C3AED" height="38"/></a>
-<a href="https://leetcode.com/gauravDevX/"><img src="https://img.shields.io/badge/LeetCode-0B0E14?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=161b22" height="38"/></a>
-
-<br/><br/>
-
-> ### *"Engineering isn't just writing code — it's solving problems that matter, at the scale that matters, with the precision that matters."*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e54d5e,30:8b5cf6,60:a78bfa,100:0b0e14&height=140&section=footer&animation=fadeIn" width="100%"/>
-
-<p style="color: #71717a; font-size: 15px; margin-top: -30px;">
-  <i>⭐ Made with passion • Shipped with precision 🚀</i>
-</p>
-
-</div>
-
-<!-- ═══════════════ END ═══════════════ -->
+If you are hiring for a fresher Software, Backend, Full-Stack or AI/ML role, start with GroundTruth AI for backend depth, AI Career Intelligence for AI + full-stack, and SmartCare or TalentForge for a complete product workflow — each repo README explains how to run it.
